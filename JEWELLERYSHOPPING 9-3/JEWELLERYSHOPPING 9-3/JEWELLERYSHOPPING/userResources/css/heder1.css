@@ -1,0 +1,54 @@
+﻿* {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+:before, :after {
+  box-sizing: border-box; }
+
+
+/************************** Other End */
+
+
+
+
+
+/************************************************************** Btn Start */
+
+.btn-wrp{
+  display: inherit;
+  justify-content: space-between;
+  font-size: 15px;
+  /*font-style: italic;*/
+  font-weight: 700;
+}
+
+
+
+/************************************************************** Btn End */
+
+
+/************************************************************** 404 Ends */
+
+form input.blue-btn {border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    background: #0374b7;
+    border-radius: 30px;padding: 7px 18px; color: #fff;text-transform: uppercase; font-size: 15px; font-family: 'Raleway'; 
+    font-weight: 700;letter-spacing: 1.5px;transition: 0.5s;cursor: pointer;
+}
+.hover-body form input.blue-btn:hover {background: #333;}
+.hide-desk{display: none;}
+a.view-nri-txt {display: none;color: #0374b7;text-decoration: underline;}
+.mob-tab-selected {display: none;}
+nav.mob-btn {display: none;position: fixed; right: 10px; top: 10px;z-index: 1002}
+#price-enquiry .intl-tel-input .flag-container {max-height: 35px;}
+
+
+
+/************************************************************** Breadcrumb End */
+

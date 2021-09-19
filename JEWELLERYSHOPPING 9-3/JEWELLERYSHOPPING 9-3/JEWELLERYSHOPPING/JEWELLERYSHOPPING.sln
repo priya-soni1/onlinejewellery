@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JEWELLERYSHOPPING", "G:\PRIYA\JEWELLERYSHOPPING\", "{10562C72-02FB-47A5-99F1-62BB0A7717E6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/JEWELLERYSHOPPING"
+		Debug.AspNetCompiler.PhysicalPath = "G:\PRIYA\JEWELLERYSHOPPING\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\JEWELLERYSHOPPING\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/JEWELLERYSHOPPING"
+		Release.AspNetCompiler.PhysicalPath = "G:\PRIYA\JEWELLERYSHOPPING\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\JEWELLERYSHOPPING\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "16541"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10562C72-02FB-47A5-99F1-62BB0A7717E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10562C72-02FB-47A5-99F1-62BB0A7717E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

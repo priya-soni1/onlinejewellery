@@ -1,0 +1,2439 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)http://www.themelooks.net/demo/kinen/html/preview/checkout.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Document Title -->
+    <title>Ecommerce</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="http://www.themelooks.net/demo/kinen/html/preview/favicon.png">
+
+    <!-- CSS Files -->
+    <!--==== Google Fonts ====-->
+    <link href="./css_files/css" rel="stylesheet">
+    
+    <!--==== Bootstrap css file ====-->
+    <link rel="stylesheet" href="./css_files/bootstrap.min.css">
+
+    <!--==== Font-Awesome css file ====-->
+    <link rel="stylesheet" href="./css_files/font-awesome.min.css">
+
+    <!-- Owl Carusel css file -->
+    <link rel="stylesheet" href="./css_files/owl.carousel.min.css">
+
+    <!-- Magnific-Popup css file -->
+    <link rel="stylesheet" href="./css_files/magnific-popup.css">
+
+    <!-- animate css file -->
+    <link rel="stylesheet" href="./css_files/animate.min.css">
+
+    <!-- swiper -->
+    <link rel="stylesheet" href="./css_files/swiper.min.css">
+
+    <!--==== Style css file ====-->
+    <link rel="stylesheet" href="./css_files/style.css">
+
+    <!--==== Responsive css file ====-->
+    <link rel="stylesheet" href="./css_files/responsive.css">
+
+    <!--==== Custom css file ====-->
+    <link rel="stylesheet" href="./css_files/custom.css">
+<script type="text/javascript" charset="UTF-8" src="./css_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./css_files/util.js.download"></script></head>
+
+<body>
+   <!-- Preloader -->
+   <div class="preLoader" style="display: none;">
+        <div class="preloder-inner">
+            <div class="sk-cube-grid">
+                <div class="sk-cube sk-cube1"></div>
+                <div class="sk-cube sk-cube2"></div>
+                <div class="sk-cube sk-cube3"></div>
+                <div class="sk-cube sk-cube4"></div>
+                <div class="sk-cube sk-cube5"></div>
+                <div class="sk-cube sk-cube6"></div>
+                <div class="sk-cube sk-cube7"></div>
+                <div class="sk-cube sk-cube8"></div>
+                <div class="sk-cube sk-cube9"></div>
+            </div>
+        </div>
+    </div>
+    <!-- End Of Preloader -->
+
+    <!-- main header -->
+    <header class="header">
+        <div class="main-header-wraper main-header inner-page-header sticky">
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-6 col-sm-6 col-md-3 col-lg-2 col-xl-3">
+                        <div class="logo-container">
+                            <!-- Logo -->
+                            <div class="logo">
+                                <a href="http://www.themelooks.net/demo/kinen/html/preview/index.html">
+                                    <img class="default-logo" src="./css_files/logo.png" data-rjs="2" alt="ecommerce">
+                                    <img class="sticky-logo" src="./css_files/logo2.png" data-rjs="2" alt="ecommerce">
+                                </a>
+                            </div>
+                            <!-- End of Logo -->
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-7 col-xl-6">
+                        <!-- menu container -->
+                        <div class="menu-container">
+                            <div class="menu-wraper">
+                                <nav>
+                                    <!-- Header-menu -->
+                                    <div class="header-menu dosis">
+                                        <div id="menu-button"><i class="fa fa-bars"></i><span class="bar bar1"></span><span class="bar bar2"></span><span class="bar bar3"></span></div>
+                                        <ul>
+                                            <li class="has-sub-item"><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Home</a>
+                                                <ul>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/index.html">Home Version 01</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/index-2.html">Home Version 02</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/index-3.html">Home Version 03</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/index-4.html">Home Version 04</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="has-sub-item">
+                                                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Shop</a>
+                                                <ul>
+                                                    <li class="has-sub-item"><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Shop Details</a>
+                                                        <ul>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details.html">Shop Details</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details-withbar.html">Shop details with sidebar</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details-download.html">Shop Details Download</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details-external.html">Shop Details External</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details-grouped.html">Shop Details Grouped</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details-onsale.html">Shop Details onsale</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details-outstck.html">Shop Details Outstck</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details-variable.html">Shop Details Variable</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-2col.html">Shop 2 Column</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-2col-withbar.html">Shop 2Col with sidebar</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-3col.html">Shop 3 Column</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-3col-withbar.html">Shop 3Col with sidebar</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-4col.html">Shop 4 Column</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-4col-withbar.html">Shop 4Col with sidebar</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-5col.html">Shop 5 Column</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-6col.html">Shop 6 Column</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-masonary.html">Shop Masonary</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-minimal.html">Shop minimal</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-carousel.html">Shop Carousel</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="has-sub-item">
+                                                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Catagories</a>
+                                                <ul>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/categories-page1.html">Categories 1</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/categories-page2.html">Categories 2</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/categories-page3.html">Categories 3</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/categories-page4.html">Categories 4</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="has-sub-item"><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">collection</a>
+                                                <ul>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/collection-page1.html">Collection 1</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/collection-page2.html">Collection 2</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/collection-page3.html">Collection 3</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/collection-page4.html">Collection 4</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="active has-sub-item">
+                                                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Pages</a>
+                                                <ul>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/about.html">About</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/cart-list.html">Cart List</a></li>
+                                                    <li class="active"><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html">Check Out</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/wish-list.html">Wish List</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/faq.html">FAQ</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/myaccount.html">My Account</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/order-tracking.html">Order Tracking</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/search-result.html">Search Results</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/logout.html">Log Out</a></li>
+                                                    <li class="has-sub-item"><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Coming Soon</a>
+                                                        <ul><li><a href="http://www.themelooks.net/demo/kinen/html/preview/comming-soon.html">Coming Soon 01</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/comming-soon2.html">Coming Soon 02</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li class="has-sub-item"><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">404 Page</a>
+                                                        <ul>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/error1.html">404 Page 1</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/error2.html">404 Page 2</a></li>
+                                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/error3.html">404 Page 3</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li class="has-sub-item">
+                                                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Blog</a>
+                                                <ul>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/blog-2clumn.html">Blog Layout</a></li>
+                                                    
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/blog-2clumn-withbar.html">Blog Right Sidebar</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/blog-pinterest.html">Blog Pinterest</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/blog-pinterest-withbar.html">Blog Pinterest with Sidebar</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/blog-list.html">Blog list</a></li><li><a href="http://www.themelooks.net/demo/kinen/html/preview/blog-list-withbar.html">Blog list with Sidebar</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/blog-details-withbar.html">Blog Details With Sidebar</a></li>
+                                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/blog-details.html">Blog Details</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/contact.html">Contact</a></li>
+                                        </ul>
+                                    </div>
+                                    <!-- End of Header-menu -->
+                                </nav>
+                            </div>
+                        </div>
+                        <!-- menu container -->
+                    </div>
+                    <div class="col-12 col-sm-12 col-md-3 top-order">
+                        <!-- modal menu -->
+                        <div class="modal-menu-container">
+                            <ul class="list-unstyled mb-0">
+                                <li>
+                                    <div class="search-btn" title="search">
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="18.947" height="19.999" viewBox="0 0 18 19" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Search_button" data-name="Search button" class="cls-1" d="M1709.7,52.148l-3.2-3.457a8.4,8.4,0,0,0,1.93-5.355,8.216,8.216,0,1,0-8.22,8.33,8.073,8.073,0,0,0,4.71-1.507l3.24,3.5a1.056,1.056,0,0,0,1.51.03A1.1,1.1,0,0,0,1709.7,52.148Zm-9.49-14.97a6.158,6.158,0,1,1-6.07,6.157A6.119,6.119,0,0,1,1700.21,37.178Z" transform="translate(-1692 -35)"></path>
+</svg>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="cart-btn" title="Cart list">
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/login.html">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Add_to_bag_" data-name="Add to bag " class="cls-1" d="M19.065,7.442H16.03L11.391,0.775A1.761,1.761,0,0,0,9.934,0h0A1.759,1.759,0,0,0,8.477.774L3.83,7.442H0.935a0.918,0.918,0,0,0-.935.9V8.669a12.062,12.062,0,0,0,2.914,8A9.385,9.385,0,0,0,10,20a9.386,9.386,0,0,0,7.086-3.334,12.063,12.063,0,0,0,2.915-8V8.342A0.918,0.918,0,0,0,19.065,7.442ZM9.887,1.686a0.169,0.169,0,0,1,.046-0.048,0.172,0.172,0,0,1,.046.049l4.005,5.756H5.876ZM10,17.969c-4.318,0-7.86-3.865-8.12-8.726H18.12C17.86,14.1,14.317,17.969,10,17.969Z"></path>
+</svg>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="wishlist-btn-off" title="Wish list">
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="wishlist" class="cls-1" d="M9.993,20a0.809,0.809,0,0,1-.588-0.265L1.658,11.382A6.288,6.288,0,0,1,0,7.085a6.268,6.268,0,0,1,1.651-4.3,5.378,5.378,0,0,1,8.012.009l0.344,0.371L10.342,2.8a5.382,5.382,0,0,1,8.012,0A6.264,6.264,0,0,1,20,7.1a6.291,6.291,0,0,1-1.655,4.3l-7.764,8.34A0.807,0.807,0,0,1,9.993,20ZM5.649,2.76A3.824,3.824,0,0,0,2.83,4.021,4.464,4.464,0,0,0,1.654,7.085a4.487,4.487,0,0,0,1.179,3.068l7.16,7.719,7.176-7.706A4.465,4.465,0,0,0,18.345,7.1,4.489,4.489,0,0,0,17.17,4.03a3.792,3.792,0,0,0-5.652,0l-0.924,1a0.793,0.793,0,0,1-1.18,0l-0.932-1A3.838,3.838,0,0,0,5.649,2.76Z" transform="translate(0 -1)"></path>
+</svg>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="account-btn" title="account list">
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Account" class="cls-1" d="M16.751,20V19.643A6.546,6.546,0,0,0,10,13.34a6.546,6.546,0,0,0-6.751,6.3V20H1V19.643a8.128,8.128,0,0,1,2.642-5.972A9.254,9.254,0,0,1,10,11.205a9.254,9.254,0,0,1,6.358,2.466A8.128,8.128,0,0,1,19,19.643V20H16.751ZM10,9.172a4.587,4.587,0,1,1,4.6-4.586A4.6,4.6,0,0,1,10,9.172Zm0-7.037a2.451,2.451,0,1,0,2.459,2.451A2.458,2.458,0,0,0,10,2.135Z" transform="translate(-1)"></path>
+</svg>
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="menu-btn" title="Category menu">
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Manu_button" data-name="Manu button" class="cls-1" d="M1816,32h10.09V42.094H1816V32Zm13.91,0H1840V42.094h-10.09V32ZM1816,45.906h10.09V56H1816V45.906Zm13.91,0H1840V56h-10.09V45.906Z" transform="translate(-1816 -32)"></path>
+</svg>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- End of modal menu -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- End of main header -->
+
+    <!-- Catagory menu -->
+    <div class="slidenav catagory-menu">
+        <div class="menu-navigation">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col">
+                        <div class="catagory-menu-header d-flex  align-items-center">
+                            <div class="logo">
+                                <a href="http://www.themelooks.net/demo/kinen/html/preview/index.html"><img class="default-logo" src="./css_files/logo.png" data-rjs="2" alt="ecommerce"></a>
+                            </div>
+                            <div class="menu-cancel">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14.03" height="14" viewBox="0 0 14.03 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                      
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M1866.23,55l5.51-5.509a0.876,0.876,0,0,0-1.24-1.239l-5.5,5.509-5.51-5.509a0.876,0.876,0,1,0-1.24,1.239L1863.76,55l-5.51,5.509a0.88,0.88,0,0,0,0,1.239,0.9,0.9,0,0,0,.62.257,0.863,0.863,0,0,0,.62-0.257l5.51-5.509,5.5,5.509a0.863,0.863,0,0,0,.62.257,0.876,0.876,0,0,0,.62-1.5Z" transform="translate(-1858 -48)"></path>
+</svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 offset-md-2">
+                        <div class="search-bar primary-form parsley-validate">
+                            <form action="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" novalidate="">
+                                <input type="text" class="theme-input-style" placeholder="Type Your Search Here" required="">
+                                <input type="submit" class="search-icon" value="" disabled="">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-10 col-md-12 offset-lg-1">
+                        <div class="catagory-menu-wrap">
+                            <nav>
+                                <ul class="list-unstyled">
+                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Men</a>
+                                        <span><svg xmlns="http://www.w3.org/2000/svg" width="22" height="70" viewBox="0 0 22 70" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #e4e4e4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M506.077,215.455c0.082,0.375.3,0.728,0.4,1.058v0.794a0.335,0.335,0,0,1,.132.4,4.849,4.849,0,0,0-.4,1.059h0.4v0.132h0.133v0.926h-0.133l-0.132.4h-0.133v0.265H506.21a0.452,0.452,0,0,1-.4.264c-0.073.895-.471,1.414-0.532,2.382a1.928,1.928,0,0,1,1.2.529l0.132,0.4h1.063v-0.132h0.4a0.534,0.534,0,0,0,.266.264v0.265a0.62,0.62,0,0,0-.4.529h0.8a1.457,1.457,0,0,0,.266.264v0.4l0.664,0.927H509.4v0.4h0.133V227.1h0.4l0.132-.4h0.532v0.4l-0.4.264v0.265l-0.265.132c-0.045.132-.089,0.265-0.133,0.4h-0.531a3.734,3.734,0,0,0-.4-0.4H509.4v-0.529h-0.531v0.529a5.107,5.107,0,0,1-1.328-.793V227.1h0.133a3.592,3.592,0,0,0,2.125,1.323l0.8-1.191a3.918,3.918,0,0,0,.8.4,1.628,1.628,0,0,0,.4.926l0.265,0.132v0.265h0.133q0.133,0.859.266,1.72h0.133l0.132,0.926h0.133v0.4h0.133v0.4h0.133v0.529h0.133l0.132,1.19h0.133q-0.066,1.125-.133,2.25c0.162,0.542.869,2.258,0.532,3.175H513.78V239.8l-0.266.133a9.968,9.968,0,0,1,.133,1.852h-0.133v0.264h-0.133q0.068,1.257.133,2.514h-0.133l-0.132.529h-0.133v0.4h-0.133v0.265H512.85v0.264l-0.265.132v0.265h-0.133c-0.2.5,0.04,1.632-.266,1.985v-0.265l-0.664-.794a5.467,5.467,0,0,0-1.461-.661c0.02-.973.455-1.638,0.133-2.514a0.232,0.232,0,0,0-.133.133h-0.132a6.531,6.531,0,0,1,0,1.984H509.8v0.264l-0.266.133v0.264H509.4v0.265h-0.132v0.4h-0.133a1.86,1.86,0,0,0,1.328,2.249,10.211,10.211,0,0,1,.265,1.058h-0.4a1.081,1.081,0,0,1-.266.794h-0.132q-0.134.661-.266,1.323H509.53c-0.088.264-.177,0.529-0.265,0.794h-0.133v0.264H509c-0.044.177-.089,0.353-0.133,0.53l-0.266.132-0.132.529h-0.133v0.794H508.2v0.4h-0.133q-0.066.6-.133,1.19H507.8v0.662h-0.133v0.661h-0.133v0.53h-0.133v0.661h-0.132v0.4H507.14V261.1h-0.133v0.926h-0.133q-0.066.993-.133,1.984v1.324h-0.133v3.7h-0.132v1.058h-0.133v1.191H506.21v0.662h-0.133v0.793h-0.133v2.779h-0.132v0.926h-0.133v0.4h-0.133v0.4h-0.133v0.4H505.28v0.529h-0.132a3.61,3.61,0,0,1-.266,1.322v-0.132l-0.8.132a2.023,2.023,0,0,0,.266,1.059q0.066,0.462.133,0.926h0.132q0.134,1.125.266,2.249h-0.133v0.132c-0.913.028-3.394,0.455-3.984-.132-0.151-.151-0.053,0-0.133-0.265a3.568,3.568,0,0,0,.133-1.19,9.987,9.987,0,0,0,.4-3.043H500.9v-0.4h-0.266q-0.332.464-.664,0.926H499.7v0.133l-1.329-.133c-0.088-.133-0.177-0.265-0.265-0.4h-0.133V279.09h-0.133a5.894,5.894,0,0,1-.4-2.779v-1.058a7.036,7.036,0,0,0,.8-2.382,0.481,0.481,0,0,1-.4-0.264h-0.132v-0.265l-0.266-.132v-1.19h-0.133v-0.4h-0.133v-3.44c-0.283-.975-0.507-2.082-0.8-3.043v-0.794H496.25a0.228,0.228,0,0,1,.132-0.264v-1.191h0.133c-0.044-.176-0.088-0.353-0.133-0.529H496.25q-0.067-1.323-.133-2.646h-0.133v-0.529h-0.133v-0.53h-0.133V257h-0.132V256.07c-0.089-.044-0.177-0.089-0.266-0.132v-0.265h-0.133c-0.044-.176-0.088-0.353-0.133-0.529h-0.132v-0.529h-0.133v-0.53h-0.133q-0.066-.926-0.133-1.852H494.39v-0.264h-0.132q-0.067-.4-0.133-0.794h-0.133v-0.529h-0.133v-0.265h-0.133a0.972,0.972,0,0,1-.133-0.529l0.8-.661,0.133-.265c0.582-.385,1.079.031,1.195-0.927a2.63,2.63,0,0,1-.265-1.587,3.1,3.1,0,0,0-1.992.132H493.2l-0.4.53-0.266.132v0.529H492.4V247.6c-0.213-.3.331-0.572,0.133-1.059l-0.265-.132v-0.265h-0.133q0.2-.661.4-1.323l-0.4-.132c-0.045-.22-0.089-0.441-0.133-0.661a4.717,4.717,0,0,0,.531-1.588H492.4v-0.529h-0.132a1.779,1.779,0,0,0,.132-0.794,0.349,0.349,0,0,1-.132-0.4H492.4v-1.059h-0.132v-1.059h-0.133a5.776,5.776,0,0,1,.4-2.778v-1.19h0.133v-1.191H492.8v-0.662h0.133v-0.529h0.132v-0.529H493.2v-0.4h0.133v-0.4h0.133v-0.4h0.132q0.133-.594.266-1.19l0.266-.133v-0.264l0.265-.133v-0.264l0.266-.132v-0.265c0.272-.387.423-0.06,0.531-0.794l0.4-.132a11.1,11.1,0,0,0,.531,1.058l0.8,0.133c0.266-.4.12-0.06,0.4-0.265l0.531-.661h0.266c0.044-.089.088-0.177,0.133-0.265h0.265l0.266-.4h0.265V226.7a0.473,0.473,0,0,0,.266-0.4h-0.133a3.7,3.7,0,0,1-1.328.926v0.132l-0.664.529v-0.529a1.3,1.3,0,0,0-.531.133c0.154,0.539.121,0.14,0.4,0.4v0.133h-0.132c-0.045.088-.089,0.176-0.133,0.264-0.681-.174-0.714-0.69-1.063-1.19h-0.132l-0.266-.4,1.859-.53v-0.132l0.532-.4a1.29,1.29,0,0,1,.265-0.529v-0.661l1.461-.265a1.8,1.8,0,0,1,1.594-1.058v-2.25h-0.4v-0.132H500.5v-0.132h-0.132V220.35h-0.133v-0.265c-0.089-.044-0.177-0.089-0.266-0.132v-0.926l0.4-.265q-0.068-.33-0.133-0.662H500.1a3.42,3.42,0,0,1,.133-1.984v-0.265l0.4-.264v-0.265h0.133l0.266-.4H501.3l0.266-.4h0.265c0.045-.088.089-0.176,0.133-0.264h0.266v-0.132h0.4V214h1.461a1.1,1.1,0,0,0,.531.265c0.045,0.088.089,0.176,0.133,0.264h0.4v0.133l0.531,0.4c0.044,0.132.088,0.264,0.133,0.4h0.265Zm-7.3,29.369c-0.044.4-.089,0.794-0.133,1.191a2.544,2.544,0,0,0,.93.132v0.133l1.992-.133v-0.132h0.531v-0.132h0.664v-0.132h2.656l1.195-.133v0.133l0.665,0.132v0.4h0.132a2.259,2.259,0,0,0-.265-0.926,1.038,1.038,0,0,1-.532-0.265v-0.132l-1.46-.529c-0.638-.193-1.7.25-2.125-0.132l2.921-.133a10.448,10.448,0,0,1-.132-3.043h0.132v-2.778h0.133v-0.264h0.133V236.49a12.5,12.5,0,0,1-.93-4.234V230.8h0.133v-0.4h0.133V228.42a0.234,0.234,0,0,1-.133-0.265h0.133c0.044-.353.089-0.706,0.133-1.058h0.133v-0.265h0.132v-0.264h0.133V226.3h0.133a0.936,0.936,0,0,0,.133-0.529,1.639,1.639,0,0,1-.4-1.059h-0.132v-0.4c-0.1-.246-0.286-0.651-0.4-0.925H505.28v0.661l-0.265.132a3.148,3.148,0,0,1-2.125,1.323l-0.266-.4h-0.265l-1.328-1.455,0.132-.4H500.9a2.3,2.3,0,0,1-.4.265c-0.162.153-.221,0.386-0.4,0.529q-0.066.662-.133,1.323H500.1v1.191h0.133V227.1h0.133v0.661H500.5v0.4h0.133v0.529h0.133V230.8h-0.133v1.058H500.5v0.926h-0.132v1.059h-0.133v0.529H500.1c-0.044.4-.089,0.793-0.133,1.191h-0.133v1.984H499.7v0.926H499.57a2.7,2.7,0,0,0,.265,1.588l-0.132,1.984H499.57v1.588a6.342,6.342,0,0,1-.532.926H499.3v0.132h0.133V244.56a7.027,7.027,0,0,1,2.39.132Zm3.984-18.918h0.664q0.2,0.264.4,0.53h-0.132v0.132h-0.266a3.984,3.984,0,0,1-.266.4q0.4,1.057.8,2.116,0.067,2.514.133,5.027h0.133v2.25h0.133v1.852a15.4,15.4,0,0,1,.4,3.836,5,5,0,0,0-1.328,1.323,0.233,0.233,0,0,1-.133-0.132l-0.664-.4v-0.132h-0.265l-0.266-.4-0.4-.133v-2.116a2.236,2.236,0,0,0,.132-1.191V235.7q0.134-3.639.266-7.276h0.133q0.066-.264.133-0.53h0.133v-0.4h0.132V226.17A0.3,0.3,0,0,0,502.757,225.906Zm-6.64.662V227.1h0.4v-0.132c0.151-.151.053,0,0.133-0.265h-0.133v-0.132h-0.4Zm13.679,17.6a5.507,5.507,0,0,1,0-1.985,0.339,0.339,0,0,0,.133-0.4H509.8v-0.4a0.969,0.969,0,0,1-.133-0.926h0.266a2.549,2.549,0,0,0-.266-1.323,0.231,0.231,0,0,0-.133.132,1.667,1.667,0,0,0-.4.926H509a2.424,2.424,0,0,0,.133,1.191v1.058H509a2.2,2.2,0,0,0,.266,1.455A1.543,1.543,0,0,0,509.8,244.163Zm-7.7.265h0.664v0.132h-0.664v-0.132Zm9.3,4.894a0.617,0.617,0,0,1,.4-0.528,0.23,0.23,0,0,1,.133-0.133v0.4A1.548,1.548,0,0,1,511.389,249.322Zm-9.429,5.557c-0.044.265-.088,0.529-0.133,0.794H501.7V256.6h-0.133v1.985c-0.044.264-.089,0.529-0.133,0.793h0.133v0.53H501.7v1.852s-0.175,0-.133.264H501.7v1.059h-0.133q-0.134.859-.266,1.72h0.133v0.4c0.043,0.182.139-.054,0.133,0.133h-0.133q-0.066.727-.133,1.455a0.231,0.231,0,0,1,.133.132c0.267-.076.115,0.016,0.266-0.132,0.358-.4.272-1.842,0.4-2.514a29.11,29.11,0,0,1,0-3.44h0.133v-1.455c0.367-1.31.007-3.126,0-4.5H501.96Z" transform="translate(-492 -214)"></path>
+</svg></span>
+                                        <ul>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Top Wear</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Bottom Wear</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Foot Wear</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Inner Wear</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Traditional Wear</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Watch</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Accessoriesear</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Watch</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Accessoriesear</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Women</a>
+                                        <span><svg xmlns="http://www.w3.org/2000/svg" width="22" height="62" viewBox="0 0 22 62" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #e4e4e4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M757.469,223.032l2.245,0.222a7.8,7.8,0,0,0,1.01.443l0.562,0.776q0.056,0.333.112,0.664h0.112v0.333h0.112V225.8h0.113c0.074,0.368.149,0.738,0.224,1.107h0.112v0.443h0.113q0.056,1.995.112,3.989c0,2.856.011,5.674-.225,8.309h0.786v0.111h-0.112v0.665h-0.112c-0.038.221-.075,0.443-0.113,0.665h-0.112v0.221H762.3v0.332h-0.112v0.222l-0.225.111c-0.037.148-.075,0.295-0.112,0.443l-0.225.111v0.222l-0.336.221c-0.038.48-.075,0.961-0.113,1.44-0.191.645-.257,1.584-0.449,2.216V247.3h-0.112c-0.075.222-.15,0.443-0.224,0.665h-0.113v-0.332a2.285,2.285,0,0,0,.449-1.108v-0.776a12.483,12.483,0,0,0,.449-2.88,1.753,1.753,0,0,0-.673-0.111v0.111h-0.561c-0.139.244-.318,0.39-0.449,0.665h-0.113c0.013-.351.22-0.209-0.112-0.333v-1.773h0.112q0.057-.72.113-1.44v-2.77a11.841,11.841,0,0,0,.112-2.659v-1H759.49c-0.038-.148-0.075-0.3-0.113-0.444h-0.224q-0.168.5-.337,1-0.056.665-.112,1.329h-0.112q0.056,1.219.112,2.438h0.112a1.178,1.178,0,0,1-.337.775,0.28,0.28,0,0,0,.113.333q0.056,1.107.112,2.215c-0.187.038-.374,0.074-0.561,0.111a10.308,10.308,0,0,0,.673,2.881,0.747,0.747,0,0,1,.337-0.332v0.221a5.831,5.831,0,0,0-1.01,2.992,1.264,1.264,0,0,0,.673-0.887h0.225V246.3a3.983,3.983,0,0,0-.562,1.551h-0.112v0.443h-0.112c0.037,0.148.075,0.295,0.112,0.444h0.225l0.336-.554h0.113v0.332h-0.113v0.554c0.575-.15.29-0.374,0.562-0.554h0.336V248.4l0.337-.221V248.4a1.1,1.1,0,0,0-.449,1.329c0.333,1.124-.031,2.884.337,3.989v0.444h0.112V254.5h0.112v0.221h0.113q0.111,0.553.224,1.108h0.112v0.332h0.113v0.333h0.112c0.037,0.259.075,0.517,0.112,0.776h0.112V258.6l0.225,0.111v0.221l0.224,0.111v0.222h0.113v0.222h0.112v0.332h0.112v0.332h0.112v0.333h0.113v0.443H762.3v0.443h0.112l0.225,1.33h0.112v0.443h0.112q0.168,0.72.337,1.44h0.112V264.8h0.112v0.442h0.113v0.333h0.112v0.333h0.112v0.332h0.112v0.332h0.113q0.111,0.5.224,1h0.112V267.9h0.112v0.332h0.113v0.333h0.112V268.9h0.112v0.332h0.112q-0.111,1.164-.224,2.327h0.112a4.542,4.542,0,0,1,.337.886H764.99v-0.111c-0.349-.313-0.027-0.47-0.674-0.554a5.23,5.23,0,0,1-1.683.554q0.224,0.666.449,1.33h-0.113v-0.222a1.808,1.808,0,0,1-.449-1l-3.928.111a12.2,12.2,0,0,0-.449-1.772q-0.057-.555-0.113-1.108h-0.112v-0.444h-0.112V268.68h-0.112v-0.555h-0.113c-0.037-.332-0.074-0.665-0.112-1h-0.112q-0.055-.553-0.112-1.108c-0.357-1.079-.545-2.464-0.9-3.545q-0.225-1.329-.449-2.659c-0.681-2.122-.895-4.631-1.572-6.758V252.5c-0.456-1.39-.58-3.215-1.122-4.542-0.259-.633-0.3-1.259-1.01-1.44a22.15,22.15,0,0,0-.337,2.991c-0.037.259-.075,0.517-0.112,0.776a12.587,12.587,0,0,1,.112,3.213,19.674,19.674,0,0,0-.112,2.88c-0.085.968-.111,2.294-0.112,3.435,0,1.227-.33,2.822,0,3.988,0.181,0.641-.05,1.645.112,2.216v1.773h0.112v1.772a6.063,6.063,0,0,1,.112,2.106h-0.112c-0.037.259-.075,0.517-0.112,0.775l-0.337.111v1.108h0.112V275h0.113a2.478,2.478,0,0,1,0,1.218l-0.449.333v0.11h-0.225l-0.112.222h-0.225v0.111a3.534,3.534,0,0,1-1.683-.776v-0.221a1.741,1.741,0,0,1-.113-1v-0.333h0.113v-1.994l-2.133-.887v-0.11h-0.224V271.56c-0.429-.195-0.521.093-0.674-0.443a2.759,2.759,0,0,0,.112-1.33v-3.434a18.963,18.963,0,0,0,.112-4.321V260.7a15.207,15.207,0,0,0,.113-3.434V250.62a0.521,0.521,0,0,1-.449-0.332h0.224a0.445,0.445,0,0,0,.225.221v-0.665a5.008,5.008,0,0,1-1.235-1.772l0.112-.333,0.337-.11v0.11a4.26,4.26,0,0,1,.225,1.108H745.8l0.112,0.333h0.112v-3.1h0.112v-0.11H746.02a1.642,1.642,0,0,0-1.01-1.441v0.111a2.782,2.782,0,0,0-.224,1h-0.113v0.554h-0.112q-0.113.665-.224,1.33h-0.113v0.332h-0.112c-0.027.227,0.049,0.13,0.112,0.222,0.1,0.4.342,0.49,0.449,0.886h-0.112v-0.111h-0.112a1.779,1.779,0,0,0-.449-0.664,3.447,3.447,0,0,1,.337-1.219v-0.443h0.112c0.037-.333.075-0.665,0.112-1h0.112a6.1,6.1,0,0,1,.225-1.108h-0.112v-0.11h-0.449a16.859,16.859,0,0,1,.561-3.324h0.449q0.786-2.049,1.571-4.1,0.113-.774.225-1.551h0.112q0.113-.665.224-1.329h0.113v-0.332H747.7q0.113-.555.224-1.108h0.113v-0.444h0.112v-0.443h0.112v-0.665c0.467-1.52.539-3.383,1.123-4.764l0.673-.221,0.112-.221,0.449-.111,0.113-.222h0.224c0.038-.074.075-0.148,0.112-0.222H751.3a1.291,1.291,0,0,1,.224-0.221,0.961,0.961,0,0,0-.673-0.222,2.952,2.952,0,0,1-1.235-1c0.633-.152.481-0.807,0.449-1.551a4.827,4.827,0,0,1-.224-1.441h-0.113v-0.664c-0.467-1.6-.284-3.783.9-4.432h0.337v-0.111H751.3V215.5h0.561a2.843,2.843,0,0,1,1.908-.444c1.624,0.511,2.353,2.524,2.919,4.1V219.6H756.8v0.332h0.112v0.444h0.112a4.68,4.68,0,0,0,.225.886l0.336,0.221v0.111h0.449V221.7h-0.112c-0.037.221-.075,0.443-0.112,0.665h-0.112Zm-3.592-5.761a0.918,0.918,0,0,1-.448-0.221v-0.112l-1.011-.221-1.459,1.33v0.775h-0.112q0.056,1.053.112,2.1h0.112c0.038,0.259.075,0.518,0.113,0.776q0.672,0.72,1.347,1.44a3.09,3.09,0,0,1,.673.443v1a2.181,2.181,0,0,0-.786,1.884,3.576,3.576,0,0,1,.561,1.108h0.113V227.8a4.057,4.057,0,0,1,.561,1.108,0.193,0.193,0,0,0,.112-0.11,2.236,2.236,0,0,0,.225-0.887H754.1v-0.443h0.112v-0.332h0.112V226.8h0.113v-0.333h0.112c0.037-.148.075-0.3,0.112-0.443l0.449-.332V225.47l0.225-.111v-0.222l0.224-.11c0.038-.148.075-0.3,0.112-0.444l0.225-.11q0.225-.611.449-1.219a2.391,2.391,0,0,1-.9-0.443V220.6h-0.112c-0.038-.258-0.075-0.517-0.113-0.776h-0.112V219.6H755v-0.332h-0.112v-0.333h-0.113c-0.074-.222-0.149-0.443-0.224-0.665h-0.112c-0.038-.147-0.075-0.295-0.113-0.443h-0.112A1.258,1.258,0,0,1,753.877,217.271Zm5.388,26.259h0.112v0.11c-0.037.074-.074,0.148-0.112,0.222h-0.112C759.19,243.751,759.228,243.64,759.265,243.53Zm-14.03,4.32a0.742,0.742,0,0,0,.336.776v-0.111h-0.112V247.85h-0.224Zm14.928,0.111c0.128,0.126.045,0,.112,0.222h-0.112v-0.222Zm-14.031.222a7.447,7.447,0,0,0,0,1.44h0.113A2.94,2.94,0,0,0,746.132,248.183Zm-1.459.775a0.519,0.519,0,0,1,.337.443H744.9v-0.11h-0.112Zm0.337,0.443a1.61,1.61,0,0,1,.786.887h-0.112A3.329,3.329,0,0,1,745.01,249.4ZM765.1,272.446c0.128,0.127.045,0,.112,0.222H765.1v-0.222Zm-16.051,2.327c0.666,0.059,1.535.11,2.357,0.111q-0.056-1.164-.112-2.327h-2.133A7.653,7.653,0,0,0,749.051,274.773Zm16.163-2.105c0.128,0.126.045,0,.112,0.221h-0.112v-0.221Zm-1.908,2.216L763.98,275v-0.111H764.2v-0.111h0.224l0.113-.222h0.224l0.112-.221H765.1l0.224-.332c0.075-.037.15-0.075,0.225-0.111v-0.444a0.629,0.629,0,0,1-.225-0.554h0.113v0.222a4.476,4.476,0,0,1,.561,2.327c-0.737.483-.716,1.3-2.02,1.329l-0.225-.332h-0.112v-0.222l-0.225-.11a3.694,3.694,0,0,0-.336-0.444q0.056-.831.112-1.661h-0.112v-0.333h0.112v0.222A1.749,1.749,0,0,1,763.306,274.884Z" transform="translate(-744 -215)"></path>
+</svg></span>
+                                        <ul>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Kurti &amp; Fatua</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Salwar Kameez</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Boutique Dress</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Saree</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Gown</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Lehenga</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Palazzo</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Kurti &amp; Fatua</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Salwar Kameez</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Kids</a>
+                                        <span><svg xmlns="http://www.w3.org/2000/svg" width="45" height="46.969" viewBox="0 0 45 46.969" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #e4e4e4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M995.767,223.3v0.24a5.108,5.108,0,0,1,.6.6h0.242l0.121,0.239H997.1l0.12,0.239h0.363c0.04,0.08.081,0.159,0.121,0.24h0.362v0.119a1.422,1.422,0,0,0,.605.358v0.239h0.241a1.409,1.409,0,0,0,.363.6h0.121v0.358c0.08,0.041.161,0.08,0.241,0.12v0.478h0.121V228.2a4.062,4.062,0,0,1-.362,2.032l-0.363.239v0.239l-0.6.478-0.363.479h-0.241l-0.242.358h-0.363l-0.12.239h-0.242l-1.208,1.315v0.478a1.275,1.275,0,0,1,1.329.837h0.241v0.239a3.9,3.9,0,0,1,2.055,1.912l-0.484.12a7.826,7.826,0,0,0,.363,2.629v0.6l0.242,0.12c0.178,0.382-.015.678,0.121,0.836a0.92,0.92,0,0,0-.484.837c0.433,0.478.1,1.732,0.363,2.391h0.121v0.239h0.12q0.121,0.537.242,1.075l0.244,0.12v0.478h0.12v0.239h0.12v0.358l0.24,0.12v0.359l0.24,0.119v0.358q0.12,0.062.24,0.12v0.24c0.09,0.039.17,0.079,0.25,0.119v0.239l0.48,0.358v0.479h0.12v0.239h0.12v0.478a2.672,2.672,0,0,1,0,1.195c-0.64.4-.12,0.607-1.33,0.6v-0.477a6.084,6.084,0,0,0-1.086-.718v0.12a3.68,3.68,0,0,0-.12,1.673v0.957h0.12V253.9h0.121v1.2h0.121v1.673h-0.121q-0.06.837-.121,1.674l-0.241.119v0.478h-0.121V259.4h-0.121q-0.06,1.076-.121,2.152h-0.121v0.478l-0.362.239c-0.04.159-.081,0.318-0.121,0.478h-0.121q0.06,0.717.121,1.434h-0.121v0.478h-0.121v0.239h-0.121a0.857,0.857,0,0,0-.12.479l1.087,0.6,0.121,0.239h0.363l0.12,0.239H1000c0.043,0.08.083,0.159,0.123,0.239h0.36l0.12,0.24h0.36v0.119c0.25,0.2.49,0.4,0.73,0.6v0.24h0.12v0.358a4.168,4.168,0,0,1-.48.478,3.123,3.123,0,0,1-1.937.239l-0.725-.119v-0.12h-0.725V268.6h-1.209v-0.12c-0.328-.094-0.822-0.068-1.087-0.119a1.147,1.147,0,0,1-.363-0.718,2.859,2.859,0,0,0,.121-1.553h-0.121a0.466,0.466,0,0,1,.242-0.6c-0.041-.119-0.081-0.239-0.121-0.359l-0.967-.119-0.725-.837q0.06-1.2.121-2.391h0.121v-0.238h0.12l0.363-1.674c-0.663.088-.494,0.239-0.725,0.717h-0.121v0.479l-0.242.119v0.359l-0.241.119v0.359h-0.121a1.362,1.362,0,0,0-.363.6h-0.241v0.239h-0.242V263.1H991.9v0.24h-0.241v0.238a3.1,3.1,0,0,1-1.209.478v-0.119h-0.362v-0.12h-0.242V263.7l-0.363-.12V263.34a0.987,0.987,0,0,1-.6-0.359c-0.243.068-.1-0.015-0.242,0.119-0.494.315-.139,0.2-0.362,0.6l-0.242.119v0.359l-0.241.12v0.358h-0.121q-0.062.717-.121,1.435h-0.121v0.239h-0.121q-0.06.717-.121,1.434l-0.241.12c-0.219.314,0.129,0.217-.363,0.358v0.12h-0.846v-0.12l-0.725-.12V268l-0.846-.717v-0.478a1.941,1.941,0,0,1-.121-1.2h0.121v-0.478h0.121v-0.478h0.121v-0.717h0.121q0.06-.717.121-1.434h0.12v-0.239h0.121v-0.479l0.363-.238c0.04-.12.08-0.239,0.121-0.359h0.241l0.121-.239h0.242v-0.12H986.7v-0.12a0.759,0.759,0,0,0,.6-0.6,5.3,5.3,0,0,0,.242-1.2l0.242-.12v-0.358l0.483-.359v-0.239l0.242-.12v-0.238h0.12q0.062-1.2.121-2.391l0.242-.12v-0.358l0.362-.239v-0.239l0.363-.239q-0.122-1.075-.242-2.152h-0.241q-0.061-.6-0.121-1.195h-0.242v1.912c-0.538-.048-0.711-0.217-1.329-0.239l-1.088-1.2a6.489,6.489,0,0,1,.6-2.51V245.53h0.121v-2.152h0.121V242.9h0.121v-0.358h0.121v-0.479h0.121a1.948,1.948,0,0,0-.242-1.434l-0.242-.119a4.775,4.775,0,0,1,.363-2.391v-0.478h0.121V237.4h0.121v-0.478h0.12v-0.239h0.121v-0.478h0.121v-0.24h0.121v-0.478l0.242-.12a3.159,3.159,0,0,1,.845-0.716H989.6a3.283,3.283,0,0,1,.846-0.478v-0.24h0.242V233.7h0.241v-0.239h0.242c0.078-.327.158-0.272,0.242-0.6a0.519,0.519,0,0,0,.483.119V232.86h0.121v-0.6H991.9v-0.119l-0.483.119v-0.239l-1.088-.239v-0.119a1.5,1.5,0,0,0-.6-0.359,1.38,1.38,0,0,0-.363-0.6h-0.12V230.35L989,230.23c-0.347-.731-0.037-2.337,0-3.108a1.275,1.275,0,0,0,.483-0.717l0.242-.12q0.363-.417.725-0.836h0.242l0.121-.239h0.241l0.242-.358h0.483v-0.12l0.484-.12,0.121-.239a3.288,3.288,0,0,1,1.812-1.195C994.593,222.805,995.432,223.217,995.767,223.3Zm13.293,2.271-0.48-.119c0.07,0.327.16,0.272,0.24,0.6-0.39-.125-0.56-0.063-0.61.478h0.13v0.12a3.233,3.233,0,0,0,.84-0.12l0.12-.239h0.24c0.12-.159.25-0.318,0.37-0.477a11.2,11.2,0,0,1,3.14-.12v0.12h0.48v0.119a1.454,1.454,0,0,0,.61.358v0.239a3.331,3.331,0,0,0,1.08.359,0.989,0.989,0,0,0-.24-0.837c0.54,0.023.4,0.289,0.49-.238h-0.13c-0.22-.114.25-0.12,0.25-0.12v0.239l1.08-.119v0.119c-0.33.086-.27,0.033-0.36,0.358a1.064,1.064,0,0,1,1.09.12v0.239h-0.12a0.8,0.8,0,0,0-.73-0.239v0.119h0.24v0.24h0.25a1.312,1.312,0,0,0,.36.6h0.12v0.479h0.12l-0.12,1.912h-0.12v0.358c-0.04.164-.14-0.048-0.12,0.12h0.12v0.358a1.013,1.013,0,0,1,.24.24h-0.24a1.675,1.675,0,0,0-.36-0.478l-0.12.238-2.18.24v0.956c-0.03.167-.13-0.049-0.12,0.12h0.12v0.358c0.24-.04.48-0.08,0.73-0.119v0.119h-0.13v0.119h-0.24v0.12a0.872,0.872,0,0,1-.48-0.12v0.239h-0.12l0.12,0.718h-0.12c-0.15-.229-0.12-0.2-0.48-0.239,0.02,0.563.18,0.713-.13,0.836-0.08-.33-0.03-0.267-0.36-0.358a3.2,3.2,0,0,0-.48,1.076l0.48,0.119v-0.119h0.36c0.04-.08.08-0.16,0.13-0.24l1.2-.119v0.119h0.49v0.12a1.5,1.5,0,0,0,.6.359v0.239l0.36,0.119v0.119h0.25c0.04,0.081.08,0.16,0.12,0.239,0.44,0.08.88,0.16,1.33,0.24l0.12,0.239h0.24v0.12h1.57v0.119h0.24v0.119a2.573,2.573,0,0,0,1.09-.358c0.71-.221,1.58.349,2.05,0.239,0.4-.091.71-0.383,1.09-0.478v-0.24h0.24v-0.239a1.486,1.486,0,0,0,.61-0.358v-0.119l1.93-.239a1.058,1.058,0,0,0,.48.239v0.119h0.24v0.12c0.17,0.119.33,0.238,0.49,0.358a1.111,1.111,0,0,0,.24.478l-0.12.478h-0.24c-0.2.279-.41,0.558-0.61,0.837h-0.24v0.12h-1.09v0.119h-0.12V237.4h-0.48v0.119a3.013,3.013,0,0,0-.48-0.119v0.478a1.427,1.427,0,0,0-.25.239h-0.24v0.119h-0.84l-0.12.239c-0.25.08-.49,0.16-0.73,0.239v0.12l-0.72.239v0.119h-0.37l-0.12.24h-0.48v0.119h-0.24v0.12c-0.91.347-2.51,0.109-3.63,0.119a9.788,9.788,0,0,0-.12,2.75h-0.12l0.12,1.553h0.12v0.479H1018v0.477h0.12V248.4h-0.96c0.26,1.535.93,2.544,0.96,4.3H1018v0.12a4.833,4.833,0,0,0-1.08.359h-2.9c-0.13.159-.25,0.318-0.37,0.478h-0.12l-0.12.478-0.48.358v0.239l-0.24.12v0.239c-0.17.12-.33,0.239-0.49,0.358v0.239l-0.24.12v0.239l-0.48.359v0.239l-0.24.119v0.24c-0.08.039-.17,0.079-0.25,0.119v0.359l-0.24.119v0.359h-0.12a2.585,2.585,0,0,0,.36.836h0.25v0.239l0.36,0.12v0.119l0.36,0.12,0.12,0.239h0.24v0.119h0.24c0.09,0.12.17,0.24,0.25,0.359l0.48,0.12,0.24,0.358c0.16,0.04.32,0.08,0.49,0.119l0.24,0.36h0.24v0.119h0.24v0.12l0.73,0.119,0.36,0.478h0.24v0.12l0.24,0.119v0.239h0.24a0.814,0.814,0,0,0,.49.6c-0.16.478-.33,0.956-0.49,1.434l-0.24.119v0.239c-0.08.041-.16,0.08-0.24,0.12v0.239h-0.12v0.478h0.12l-0.12,1.2h-0.12l-0.24.717h-0.12a1.306,1.306,0,0,0-.37.6l-0.36.12v0.12h-0.24v0.119l-0.61-.119-0.24-3.706-0.24-.12V264.3h-0.24v-0.24l-0.36-.119v-0.12h-0.25l-0.12-.239-0.6-.119,0.12,2.749,0.24,0.12a8.078,8.078,0,0,1,.12,2.629h-0.12l-0.12.6a2.443,2.443,0,0,1-1.45.239v-0.119h-0.48v0.119h-0.49v0.12c-1.07.31-2.45-.329-3.14-0.479v-0.717c0.12-.079.24-0.159,0.37-0.239V268.36h0.36a3.977,3.977,0,0,1,.84-0.478v-0.24h0.25l0.12-.358h0.12v-0.239h0.12v-3.108h-0.12V263.22h-0.12a1.888,1.888,0,0,1,.24-0.6h-0.12v-0.837h-0.12v-0.238h-0.12v-0.359c-0.09-.04-0.17-0.08-0.25-0.119v-0.24l-0.36-.239v-0.119h-0.24c-0.24-.279-0.48-0.558-0.73-0.837h-0.12v-0.478h-0.12v-0.239h-0.12a7.255,7.255,0,0,1-.12-2.271v-4.662a9.084,9.084,0,0,1-3.62-.478l0.12-.239h-0.12v-0.956h0.12l0.12-1.2a2.2,2.2,0,0,0,.24-1.434h-0.12v-0.239c-0.24-.2-0.49-0.4-0.73-0.6l-0.12-.837h-0.12v-2.152h0.12v-1.434h0.12c0.2-1.036.41-2.072,0.61-3.108a1.978,1.978,0,0,1-1.45-.12v-0.119c-0.12-.04-0.24-0.08-0.37-0.12v-0.239h-0.24a1.291,1.291,0,0,0-.36-0.6h-0.12V237.76l-0.24-.119v-0.359l-0.244-.119v-0.478h-0.121v-0.24h-0.121v-0.358l-0.241-.12q-0.062-.477-0.121-0.956h-0.121v-0.239l-0.242-.119q0.062-.538.121-1.076h-0.121q-0.12-.957-0.241-1.912l0.483-.359v-0.12h0.242v-0.119h0.362v-0.12l1.085-.119,0.12,0.358c0.67,0.1.76,0.166,0.73,0.957h-0.12v0.477l-0.24.12a2.288,2.288,0,0,0-.37.837h0.12v0.239h0.13v0.6h0.12v0.12l0.6,0.12,0.12,0.239,0.48,0.358a8.731,8.731,0,0,1,.25.957c0.7-.059,1.04-0.33,1.81-0.359a2.467,2.467,0,0,1,1.33-1.673,1.825,1.825,0,0,1,1.33-.24v0.12a6.3,6.3,0,0,0,2.17.478,4.149,4.149,0,0,0-.12-1.076,2.874,2.874,0,0,1-1.21.478l-0.12-.239a1.84,1.84,0,0,0,.73-0.119,1.706,1.706,0,0,0,.24-0.717,2.755,2.755,0,0,1-1.21-1.435,1.73,1.73,0,0,1-.84.24c-0.05-.08-0.09-0.16-0.13-0.24a0.986,0.986,0,0,0,.73-0.239v-0.119h-0.36v0.119h-0.73v-0.119h0.12c0.14-.137,0-0.048.24-0.12V230.23h-0.12v-0.239l-0.24-.119-0.12-.359-0.36-.12v-0.119c0.42-.1.47-0.212,0.48-0.717h-0.12v-0.6h-0.12a3.37,3.37,0,0,1,.48-2.032,0.261,0.261,0,0,1-.24-0.119l-0.48.119v-0.119h0.12a0.633,0.633,0,0,1,.72-0.24v0.12h0.37a0.772,0.772,0,0,1,.6-0.6v0.12C1008.32,225.521,1008.8,224.748,1009.06,225.568Zm0,0c0.14,0.136.05,0,.12,0.24h-0.12v-0.24Zm6.04,0h0.24v0.12C1015.1,225.62,1015.24,225.7,1015.1,225.568Zm-8.46,2.989v0.478h0.12v-0.478h-0.12Zm0.25,1.315v0.358l0.48,0.358v-0.6h-0.12v-0.119h-0.36Zm7.73,3.466h0.48v0.119h-0.48v-0.119Zm-0.48.6h0.24v0.12C1014.13,233.986,1014.27,234.069,1014.14,233.935Z" transform="translate(-984 -223.031)"></path>
+</svg></span>
+                                        <ul>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Gear &amp; Activity</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Baby Carriers</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Nursery</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Diapering</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Nursing &amp; Feeding</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Baby Toys</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Bath &amp; Potty</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Health &amp; Safety</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Baby Clothing</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Home Decor</a>
+                                        <span><svg xmlns="http://www.w3.org/2000/svg" width="30" height="50" viewBox="0 0 30 50" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #e4e4e4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M1264.63,251.873v-3.836a2.666,2.666,0,0,0-1.73-2.509V222.911a0.9,0.9,0,1,0-1.8,0v22.617a2.666,2.666,0,0,0-1.73,2.509v3.836A15.209,15.209,0,0,0,1247,266h30A15.209,15.209,0,0,0,1264.63,251.873ZM1262,272a8.812,8.812,0,0,0,7.47-4.179h-14.94A8.812,8.812,0,0,0,1262,272Z" transform="translate(-1247 -222)"></path>
+</svg></span>
+                                        <ul>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Smart Home</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Bath</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Bedding</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Furniture</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Home Appliances</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Home Improvement</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Kids' Home</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Kitchen &amp; Dining</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Lamps &amp; Lighting</a></li>
+                                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Luggage</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End of Catagory menu -->
+    
+    <!-- offcanvas menu-->
+
+    <!-- offcanvas overlay -->
+    <div class="offcanvas-overlay"></div>
+    <!-- offcanvas overlay -->
+
+    <!-- offcanvas mainmenu -->
+    <div class="offcanvas offcanvas-mainmenu">
+        <div class="offcanvas-cancel">
+            <svg xmlns="http://www.w3.org/2000/svg" width="14.03" height="14" viewBox="0 0 14.03 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                      
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M1866.23,55l5.51-5.509a0.876,0.876,0,0,0-1.24-1.239l-5.5,5.509-5.51-5.509a0.876,0.876,0,1,0-1.24,1.239L1863.76,55l-5.51,5.509a0.88,0.88,0,0,0,0,1.239,0.9,0.9,0,0,0,.62.257,0.863,0.863,0,0,0,.62-0.257l5.51-5.509,5.5,5.509a0.863,0.863,0,0,0,.62.257,0.876,0.876,0,0,0,.62-1.5Z" transform="translate(-1858 -48)"></path>
+</svg>
+        </div>
+    </div>
+    <!-- offcanvas mainmenu -->
+
+    <!-- wish list -->
+    <div class="offcanvas offcanvas-wishlist" id="wishlist">
+        <div class="offcanvas-head">
+            <div class="head-text">
+                <svg xmlns="http://www.w3.org/2000/svg" width="58" height="54" viewBox="0 0 58 54" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                               
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-2 {
+        fill-rule: evenodd;
+        opacity: 0.02;
+      }
+    </style>
+  </defs>
+  <path id="wishlist" class="cls-2" d="M1480.98,86a2.356,2.356,0,0,1-1.7-.754l-22.47-23.737a17.964,17.964,0,0,1-.03-24.437,15.816,15.816,0,0,1,23.24.025l1,1.055,0.97-1.03a15.829,15.829,0,0,1,23.24-.013,18.009,18.009,0,0,1-.03,24.45l-22.51,23.7A2.384,2.384,0,0,1,1480.98,86ZM1468.38,37a11.172,11.172,0,0,0-8.17,3.584,12.825,12.825,0,0,0,.01,17.428l20.76,21.94,20.81-21.9a12.855,12.855,0,0,0,0-17.44,11.146,11.146,0,0,0-16.39.013l-2.68,2.831a2.33,2.33,0,0,1-3.42,0l-2.7-2.856A11.257,11.257,0,0,0,1468.38,37Z" transform="translate(-1452 -32)"></path>
+</svg>
+                <h3>Wishlist</h3>
+            </div>
+            <div class="offcanvas-cancel">
+                <svg xmlns="http://www.w3.org/2000/svg" width="14.03" height="14" viewBox="0 0 14.03 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                      
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M1866.23,55l5.51-5.509a0.876,0.876,0,0,0-1.24-1.239l-5.5,5.509-5.51-5.509a0.876,0.876,0,1,0-1.24,1.239L1863.76,55l-5.51,5.509a0.88,0.88,0,0,0,0,1.239,0.9,0.9,0,0,0,.62.257,0.863,0.863,0,0,0,.62-0.257l5.51-5.509,5.5,5.509a0.863,0.863,0,0,0,.62.257,0.876,0.876,0,0,0,.62-1.5Z" transform="translate(-1858 -48)"></path>
+</svg>
+            </div>
+        </div>
+        
+        <div class="offcanvas-inner">
+            <div class="added-wish-list">
+                <!-- single wish list -->
+                <div class="single-added-list">
+                    <!-- single wish list left -->
+                    <div class="single-item-left media align-items-center">
+                        <img src="./css_files/wishlist1.png" alt="">
+                        <div class="single-item-details midea-body">
+                            <h5><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Women's Strap Sandal</a></h5>
+                            <p>$125</p>
+                        </div>
+                    </div>
+                    <!-- End of single wish list left -->
+
+                    <!-- Single wish list right -->
+                    <div class="single-item-right text-right">
+                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: red;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="remove" class="cls-1" d="M1880.35,170a3.278,3.278,0,0,1-2.41-1.066l-3.51-3.835a1.63,1.63,0,0,1,0-2.2l3.51-3.833a3.284,3.284,0,0,1,2.41-1.065h6.82a2.839,2.839,0,0,1,2.83,2.84v6.32a2.839,2.839,0,0,1-2.83,2.84h-6.82Zm0.01-10.6a1.893,1.893,0,0,0-1.39.61l-3.51,3.835a0.223,0.223,0,0,0,0,.3l3.51,3.836a1.874,1.874,0,0,0,1.38.61h6.82a1.444,1.444,0,0,0,1.44-1.439V160.84a1.444,1.444,0,0,0-1.44-1.439h-6.81Zm4.86,7.076a0.7,0.7,0,0,1-.5-0.206l-1.28-1.283-1.28,1.283a0.7,0.7,0,0,1-.99,0,0.7,0.7,0,0,1,.01-0.99l1.27-1.283-1.28-1.282a0.7,0.7,0,0,1-.2-0.5,0.71,0.71,0,0,1,.7-0.7,0.69,0.69,0,0,1,.49.206l1.28,1.282,1.28-1.282a0.7,0.7,0,0,1,.99,0,0.713,0.713,0,0,1,0,.99L1884.43,164l1.28,1.283a0.688,0.688,0,0,1,0,.99A0.69,0.69,0,0,1,1885.22,166.477Z" transform="translate(-1874 -158)"></path>
+</svg></a>
+                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn addto-cart-btn">Add To Cart</a>
+                    </div>
+                    <!-- End of Single wish list right -->
+                </div>
+                <!-- End of single wish list -->
+
+                 <!-- single wish list -->
+                <div class="single-added-list sold-item">
+                    <!-- single wish list left -->
+                    <div class="single-item-left media align-items-center">
+                        <img src="./css_files/wishlist2.png" alt="">
+                        <div class="single-item-details midea-body">
+                            <h5><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Wilson Dynasty 29” Basketball</a></h5>
+                            <p>$25</p>
+                        </div>
+                    </div>
+                    <!-- End of single wish list left -->
+
+                    <!-- Single wish list right -->
+                    <div class="single-item-right text-right">
+                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: red;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="remove" class="cls-1" d="M1880.35,170a3.278,3.278,0,0,1-2.41-1.066l-3.51-3.835a1.63,1.63,0,0,1,0-2.2l3.51-3.833a3.284,3.284,0,0,1,2.41-1.065h6.82a2.839,2.839,0,0,1,2.83,2.84v6.32a2.839,2.839,0,0,1-2.83,2.84h-6.82Zm0.01-10.6a1.893,1.893,0,0,0-1.39.61l-3.51,3.835a0.223,0.223,0,0,0,0,.3l3.51,3.836a1.874,1.874,0,0,0,1.38.61h6.82a1.444,1.444,0,0,0,1.44-1.439V160.84a1.444,1.444,0,0,0-1.44-1.439h-6.81Zm4.86,7.076a0.7,0.7,0,0,1-.5-0.206l-1.28-1.283-1.28,1.283a0.7,0.7,0,0,1-.99,0,0.7,0.7,0,0,1,.01-0.99l1.27-1.283-1.28-1.282a0.7,0.7,0,0,1-.2-0.5,0.71,0.71,0,0,1,.7-0.7,0.69,0.69,0,0,1,.49.206l1.28,1.282,1.28-1.282a0.7,0.7,0,0,1,.99,0,0.713,0.713,0,0,1,0,.99L1884.43,164l1.28,1.283a0.688,0.688,0,0,1,0,.99A0.69,0.69,0,0,1,1885.22,166.477Z" transform="translate(-1874 -158)"></path>
+</svg></a>
+                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn out-stock-btn">Out Of Stock</a>
+                    </div>
+                    <!-- End of Single wish list right -->
+                </div>
+                <!-- End of single wish list -->
+
+                 <!-- single wish list -->
+                <div class="single-added-list">
+                    <!-- single wish list left -->
+                    <div class="single-item-left media align-items-center">
+                        <img src="./css_files/wishlist3.png" alt="">
+                        <div class="single-item-details midea-body">
+                            <h5><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">HyperX Gaming Headset</a></h5>
+                            <p>$15</p>
+                        </div>
+                    </div>
+                    <!-- End of single wish list left -->
+
+                    <!-- Single wish list right -->
+                    <div class="single-item-right text-right">
+                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: red;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="remove" class="cls-1" d="M1880.35,170a3.278,3.278,0,0,1-2.41-1.066l-3.51-3.835a1.63,1.63,0,0,1,0-2.2l3.51-3.833a3.284,3.284,0,0,1,2.41-1.065h6.82a2.839,2.839,0,0,1,2.83,2.84v6.32a2.839,2.839,0,0,1-2.83,2.84h-6.82Zm0.01-10.6a1.893,1.893,0,0,0-1.39.61l-3.51,3.835a0.223,0.223,0,0,0,0,.3l3.51,3.836a1.874,1.874,0,0,0,1.38.61h6.82a1.444,1.444,0,0,0,1.44-1.439V160.84a1.444,1.444,0,0,0-1.44-1.439h-6.81Zm4.86,7.076a0.7,0.7,0,0,1-.5-0.206l-1.28-1.283-1.28,1.283a0.7,0.7,0,0,1-.99,0,0.7,0.7,0,0,1,.01-0.99l1.27-1.283-1.28-1.282a0.7,0.7,0,0,1-.2-0.5,0.71,0.71,0,0,1,.7-0.7,0.69,0.69,0,0,1,.49.206l1.28,1.282,1.28-1.282a0.7,0.7,0,0,1,.99,0,0.713,0.713,0,0,1,0,.99L1884.43,164l1.28,1.283a0.688,0.688,0,0,1,0,.99A0.69,0.69,0,0,1,1885.22,166.477Z" transform="translate(-1874 -158)"></path>
+</svg></a>
+                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn addto-cart-btn">Add To Cart</a>
+                    </div>
+                    <!-- End of Single wish list right -->
+                </div>
+                <!-- End of single wish list -->
+
+                <!-- add to button an support -->
+                <div class="view-cart-check-btn text-center">
+                    <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn btn-fill-type">View Cart List</a>
+                    <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn btn-fill-type">Check Out</a>
+                    <p>Free Shipping on All Orders Over $100!</p>
+                </div>
+                <div class="cart-support">
+                    <p class="roboto">Support</p>
+                    <ul class="list-unstyled">
+                        <li>
+                            <span><i class="fa fa-phone"></i></span>
+                            Phone: +00 654 321 9874
+                        </li>
+                        <li>
+                            <span><i class="fa fa-map-marker"></i></span>
+                            1622 Colins Street West, Strawberry (Le), ITALY
+                        </li>
+                    </ul>
+                </div>
+                <!-- add to button an support -->
+            </div>
+        </div>
+    </div>
+    <!-- End of wish list -->
+    
+    <!-- cart list -->
+    <div class="offcanvas offcanvas-cart-list">
+        <div class="offcanvas-head">
+            <div class="head-text">
+                <svg xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                             
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-2 {
+        fill-rule: evenodd;
+        opacity: 0.03;
+      }
+    </style>
+  </defs>
+  <path id="Cart_icon" data-name="Cart icon" class="cls-2" d="M1506.24,51.955h-8.95L1483.6,32.288a5.19,5.19,0,0,0-4.29-2.29h-0.01a5.189,5.189,0,0,0-4.29,2.287l-13.71,19.67h-8.54a2.707,2.707,0,0,0-2.76,2.656v0.966a35.56,35.56,0,0,0,8.6,23.588,27.127,27.127,0,0,0,41.8,0,35.56,35.56,0,0,0,8.6-23.588V54.611A2.713,2.713,0,0,0,1506.24,51.955Zm-27.07-16.98a0.621,0.621,0,0,1,.13-0.143,0.443,0.443,0,0,1,.14.143l11.82,16.98h-23.93Zm0.33,48.035c-12.74,0-23.19-11.4-23.95-25.742h47.9C1502.69,71.61,1492.24,83.01,1479.5,83.01Z" transform="translate(-1450 -30)"></path>
+</svg>
+                <h3>Cart List</h3>
+            </div>
+            <div class="offcanvas-cancel">
+                <svg xmlns="http://www.w3.org/2000/svg" width="14.03" height="14" viewBox="0 0 14.03 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                      
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M1866.23,55l5.51-5.509a0.876,0.876,0,0,0-1.24-1.239l-5.5,5.509-5.51-5.509a0.876,0.876,0,1,0-1.24,1.239L1863.76,55l-5.51,5.509a0.88,0.88,0,0,0,0,1.239,0.9,0.9,0,0,0,.62.257,0.863,0.863,0,0,0,.62-0.257l5.51-5.509,5.5,5.509a0.863,0.863,0,0,0,.62.257,0.876,0.876,0,0,0,.62-1.5Z" transform="translate(-1858 -48)"></path>
+</svg>
+            </div>
+        </div>
+        
+        <div class="offcanvas-inner">
+            <div class="added-cart-list">
+                <!-- single cart list --> 
+                <div class="single-added-list">
+                    <!-- single cart list left -->
+                    <div class="single-item-left media align-items-center">
+                        <img src="./css_files/wishlist1.png" alt="">
+                        <div class="single-item-details midea-body">
+                            <h5><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Women's Strap Sandal</a></h5>
+                            <p>25 X 2</p>
+                        </div>
+                    </div>
+                    <!-- End of single cart list left -->
+
+                    <!-- Single wish list right -->
+                    <div class="single-item-right text-right">
+                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: red;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="remove" class="cls-1" d="M1880.35,170a3.278,3.278,0,0,1-2.41-1.066l-3.51-3.835a1.63,1.63,0,0,1,0-2.2l3.51-3.833a3.284,3.284,0,0,1,2.41-1.065h6.82a2.839,2.839,0,0,1,2.83,2.84v6.32a2.839,2.839,0,0,1-2.83,2.84h-6.82Zm0.01-10.6a1.893,1.893,0,0,0-1.39.61l-3.51,3.835a0.223,0.223,0,0,0,0,.3l3.51,3.836a1.874,1.874,0,0,0,1.38.61h6.82a1.444,1.444,0,0,0,1.44-1.439V160.84a1.444,1.444,0,0,0-1.44-1.439h-6.81Zm4.86,7.076a0.7,0.7,0,0,1-.5-0.206l-1.28-1.283-1.28,1.283a0.7,0.7,0,0,1-.99,0,0.7,0.7,0,0,1,.01-0.99l1.27-1.283-1.28-1.282a0.7,0.7,0,0,1-.2-0.5,0.71,0.71,0,0,1,.7-0.7,0.69,0.69,0,0,1,.49.206l1.28,1.282,1.28-1.282a0.7,0.7,0,0,1,.99,0,0.713,0.713,0,0,1,0,.99L1884.43,164l1.28,1.283a0.688,0.688,0,0,1,0,.99A0.69,0.69,0,0,1,1885.22,166.477Z" transform="translate(-1874 -158)"></path>
+</svg></a>
+                        <h6>$320</h6>
+                    </div>
+                    <!-- End of Single cart list right -->
+                </div>
+                <!-- End of single cart list -->
+
+                 <!-- single cart list -->
+                <div class="single-added-list">
+                    <!-- single cart list left -->
+                    <div class="single-item-left media align-items-center">
+                        <img src="./css_files/wishlist2.png" alt="">
+                        <div class="single-item-details midea-body">
+                            <h5><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Wilson Dynasty 29” Basketball</a></h5>
+                            <p>25 X 1</p>
+                        </div>
+                    </div>
+                    <!-- End of singlecart list left -->
+
+                    <!-- Single cart list right -->
+                    <div class="single-item-right text-right">
+                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: red;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="remove" class="cls-1" d="M1880.35,170a3.278,3.278,0,0,1-2.41-1.066l-3.51-3.835a1.63,1.63,0,0,1,0-2.2l3.51-3.833a3.284,3.284,0,0,1,2.41-1.065h6.82a2.839,2.839,0,0,1,2.83,2.84v6.32a2.839,2.839,0,0,1-2.83,2.84h-6.82Zm0.01-10.6a1.893,1.893,0,0,0-1.39.61l-3.51,3.835a0.223,0.223,0,0,0,0,.3l3.51,3.836a1.874,1.874,0,0,0,1.38.61h6.82a1.444,1.444,0,0,0,1.44-1.439V160.84a1.444,1.444,0,0,0-1.44-1.439h-6.81Zm4.86,7.076a0.7,0.7,0,0,1-.5-0.206l-1.28-1.283-1.28,1.283a0.7,0.7,0,0,1-.99,0,0.7,0.7,0,0,1,.01-0.99l1.27-1.283-1.28-1.282a0.7,0.7,0,0,1-.2-0.5,0.71,0.71,0,0,1,.7-0.7,0.69,0.69,0,0,1,.49.206l1.28,1.282,1.28-1.282a0.7,0.7,0,0,1,.99,0,0.713,0.713,0,0,1,0,.99L1884.43,164l1.28,1.283a0.688,0.688,0,0,1,0,.99A0.69,0.69,0,0,1,1885.22,166.477Z" transform="translate(-1874 -158)"></path>
+</svg></a>
+                        <h6>$13</h6>
+                    </div>
+                    <!-- End of Single cart list right -->
+                </div>
+                <!-- End of single cart list -->
+            </div>
+            <!-- total price -->
+            <div class="total-price">
+                <h5>Sub Total</h5>
+                <h3>$251</h3>
+            </div>
+            <!-- End of total price -->
+            
+            <!-- add to button an support -->
+            <div class="view-cart-check-btn text-center">
+                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn btn-fill-type">View Cart List</a>
+                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn btn-fill-type">Check Out</a>
+                <p>Free Shipping on All Orders Over $100!</p>
+            </div>
+            <div class="cart-support">
+                <p class="roboto">Support</p>
+                <ul class="list-unstyled">
+                    <li>
+                        <span><i class="fa fa-phone"></i></span>
+                        Phone: +00 654 321 9874
+                    </li>
+                    <li>
+                        <span><i class="fa fa-map-marker"></i></span>
+                        1622 Colins Street West, Strawberry (Le), ITALY
+                    </li>
+                </ul>
+            </div>
+            <!-- add to button an support -->
+        </div>
+    </div>
+    <!-- End of cart list -->
+
+        <!-- log in and register -->
+    <div class="offcanvas offcanvas-account">
+            <div class="offcanvas-head">
+                <div class="head-text">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="52" height="59" viewBox="0 0 52 59" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                   
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        opacity: 0.03;
+      }
+    </style>
+  </defs>
+  <path id="Account_icon" data-name="Account icon" class="cls-5" d="M1495.5,89V87.945c0-10.251-8.75-18.593-19.5-18.593s-19.5,8.342-19.5,18.593V89H1450V87.945a24.211,24.211,0,0,1,7.63-17.617,26.832,26.832,0,0,1,36.74,0A24.211,24.211,0,0,1,1502,87.945V89h-6.5ZM1476,57.059a13.533,13.533,0,1,1,13.29-13.532A13.427,13.427,0,0,1,1476,57.059Zm0-20.761a7.231,7.231,0,1,0,7.1,7.229A7.171,7.171,0,0,0,1476,36.3Z" transform="translate(-1450 -30)"></path>
+</svg>
+                    <h3>Account</h3>
+                </div>
+                <div class="offcanvas-cancel">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14.03" height="14" viewBox="0 0 14.03 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                      
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M1866.23,55l5.51-5.509a0.876,0.876,0,0,0-1.24-1.239l-5.5,5.509-5.51-5.509a0.876,0.876,0,1,0-1.24,1.239L1863.76,55l-5.51,5.509a0.88,0.88,0,0,0,0,1.239,0.9,0.9,0,0,0,.62.257,0.863,0.863,0,0,0,.62-0.257l5.51-5.509,5.5,5.509a0.863,0.863,0,0,0,.62.257,0.876,0.876,0,0,0,.62-1.5Z" transform="translate(-1858 -48)"></path>
+</svg>
+                </div>
+            </div>
+            
+            <div class="offcanvas-inner">
+                <!-- login register -->
+                <div class="login-register-wrap">
+                    <!-- login register nav -->
+                    <div class="login-register-nav">
+                        <nav class="nav lr-nav text-center">
+                            <a id="nav-login-tab" data-toggle="tab" href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#login" class="active">Log In</a>
+                            <a id="nav-register-tab" data-toggle="tab" href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#reg">Register</a>
+                        </nav>
+                    </div>
+                    <!-- End of login register nav -->
+    
+                    <!-- login register content -->
+                    <div class="login-register-content tab-content">
+                        <div class="tab-pane fade show active" id="login" role="tabpanel" aria-labelledby="nav-login-tab">
+                            <div class="primary-form parsley-validate">
+                                <form action="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" novalidate="">
+                                    <!-- loging input -->
+                                    <div class="name-input input-field">
+                                        <label>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="18" viewBox="0 0 16 18" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Account" class="cls-1" d="M16,19V18.679a5.85,5.85,0,0,0-6-5.673,5.85,5.85,0,0,0-6,5.673V19H2V18.679A7.356,7.356,0,0,1,4.348,13.3,8.169,8.169,0,0,1,10,11.084,8.168,8.168,0,0,1,15.652,13.3,7.356,7.356,0,0,1,18,18.679V19H16ZM10,9.255a4.128,4.128,0,1,1,4.09-4.128A4.114,4.114,0,0,1,10,9.255Zm0-6.334a2.206,2.206,0,1,0,2.186,2.206A2.2,2.2,0,0,0,10,2.921Z" transform="translate(-2 -1)"></path>
+</svg>
+                                        </label>
+                                        <input type="text" placeholder="User name / Email Address" class="theme-input-style" required="">
+                                    </div>
+    
+                                    <div class="password-input input-field">
+                                        <label>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="14" viewBox="0 0 12 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Lock_icon" data-name="Lock icon" class="cls-1" d="M1505.75,326.68a0.734,0.734,0,1,0,.71.734A0.725,0.725,0,0,0,1505.75,326.68Zm-3.52,5.32a2.258,2.258,0,0,1-2.23-2.28v-4.4a2.258,2.258,0,0,1,2.23-2.28h0.49v-1.758a3.275,3.275,0,1,1,6.55,0v1.758h0.5a2.258,2.258,0,0,1,2.23,2.28v4.4a2.258,2.258,0,0,1-2.23,2.28h-7.54Zm0-7.617a0.929,0.929,0,0,0-.92.939v4.4a0.929,0.929,0,0,0,.92.939h7.54a0.929,0.929,0,0,0,.92-0.939v-4.4a0.929,0.929,0,0,0-.92-0.939h-7.54Zm5.73-1.341v-1.758a1.965,1.965,0,0,0-3.93,0v1.758h3.93Z" transform="translate(-1500 -318)"></path>
+</svg>
+                                        </label>
+                                        <input type="password" placeholder="password" class="theme-input-style" required="">
+                                    </div>
+                                    <!-- loging input -->
+                                    <button type="submit" class="btn btn-fill-type">log In</button>
+                                </form>
+                                <p>Don’t have an account,<a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#"> register now!</a></p>
+                            </div>
+                        </div>
+    
+                        <div class="tab-pane fade" id="reg" role="tabpanel" aria-labelledby="nav-login-tab">
+                            <div class="primary-form parsley-validate">
+                                <form action="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" novalidate="">
+                                    <!-- register input -->
+                                    <div class="name-input input-field">
+                                        <label>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="14" viewBox="0 0 12 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Account_icon" data-name="Account icon" class="cls-1" d="M1510.5,256V255.75a4.5,4.5,0,0,0-9,0V256H1500V255.75a5.845,5.845,0,0,1,1.76-4.181,6.071,6.071,0,0,1,8.48,0,5.845,5.845,0,0,1,1.76,4.181V256h-1.5Zm-4.5-7.578a3.214,3.214,0,1,1,3.07-3.211A3.149,3.149,0,0,1,1506,248.421Zm0-4.927a1.718,1.718,0,1,0,1.64,1.716A1.684,1.684,0,0,0,1506,243.494Z" transform="translate(-1500 -242)"></path>
+</svg>
+                                        </label>
+                                        <input type="text" placeholder="User name / Email Address" class="theme-input-style" required="">
+                                    </div>
+                                    
+                                    <div class="email-input input-field">
+                                        <label>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Email_icon" data-name="Email icon" class="cls-1" d="M1201.58,1245h-9.16a1.463,1.463,0,0,0-1.42,1.5v7a1.463,1.463,0,0,0,1.42,1.5h9.16a1.463,1.463,0,0,0,1.42-1.5v-7A1.463,1.463,0,0,0,1201.58,1245Zm0,8.67h-9.16a0.2,0.2,0,0,1-.21-0.17v-6.07l4.14,3.83a0.423,0.423,0,0,0,.3.12h0.7a0.423,0.423,0,0,0,.3-0.12l4.14-3.83v6.07A0.2,0.2,0,0,1,1201.58,1253.67Zm-4.58-3.6-4.03-3.75h8.06Z" transform="translate(-1191 -1245)"></path>
+</svg>
+                                        </label>
+                                        <input type="email" placeholder="email" class="theme-input-style" required="">
+                                    </div>
+    
+                                    <div class="password-input input-field">
+                                        <label>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="14" viewBox="0 0 12 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Lock_icon" data-name="Lock icon" class="cls-1" d="M1505.75,326.68a0.734,0.734,0,1,0,.71.734A0.725,0.725,0,0,0,1505.75,326.68Zm-3.52,5.32a2.258,2.258,0,0,1-2.23-2.28v-4.4a2.258,2.258,0,0,1,2.23-2.28h0.49v-1.758a3.275,3.275,0,1,1,6.55,0v1.758h0.5a2.258,2.258,0,0,1,2.23,2.28v4.4a2.258,2.258,0,0,1-2.23,2.28h-7.54Zm0-7.617a0.929,0.929,0,0,0-.92.939v4.4a0.929,0.929,0,0,0,.92.939h7.54a0.929,0.929,0,0,0,.92-0.939v-4.4a0.929,0.929,0,0,0-.92-0.939h-7.54Zm5.73-1.341v-1.758a1.965,1.965,0,0,0-3.93,0v1.758h3.93Z" transform="translate(-1500 -318)"></path>
+</svg>
+                                        </label>
+                                        <input type="password" placeholder="password" class="theme-input-style" required="">
+                                    </div>
+                                    <!-- register input -->
+                                    <button type="submit" class="btn btn-fill-type">Register</button>
+                                </form>
+                                <p>Have an account,<a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Log In now!</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End of login register content -->
+                </div>
+                <!-- End of login register -->
+                
+                <!-- add to button an support -->
+                <div class="cart-support">
+                    <p class="roboto">Support</p>
+                    <ul class="list-unstyled">
+                        <li>
+                            <span><i class="fa fa-phone"></i></span>
+                            Phone: +00 654 321 9874
+                        </li>
+                        <li>
+                            <span><i class="fa fa-map-marker"></i></span>
+                            1622 Colins Street West, Strawberry (Le), ITALY
+                        </li>
+                    </ul>
+                </div>
+                <!-- add to button an support -->
+            </div>
+        </div>
+        <!-- End of log in and ragister -->
+
+    <!-- End of offcanvas menu-->
+
+    <!-- page title -->
+    <section class="page-title-inner" data-bg-img="assets/img/page-titlebg.png" style="background: url(&quot;assets/img/page-titlebg.png&quot;) center center;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- page title inner -->
+                    <div class="page-title-wrap">
+                        <div class="page-title-heading"><h1 class="h2">CheckOut<span>Payment</span></h1></div>
+                        <ul class="list-unstyled mb-0">
+                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/index.html">home</a></li>
+                            <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Shop</a></li>
+                            <li class="active"><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Check Out</a></li>
+                        </ul>
+                    </div>
+                    <!-- End of page title inner -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of page title -->
+    
+    <!-- check out wrap -->
+    <section class="pt-100 pb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <!-- checkout register wrap -->
+                    <div class="checkout-register-wrap">
+                        <div class="checkout-register">
+                            <form action="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" method="POST">
+                                <div class="checkout-register-title">
+                                    <h5><a data-toggle="collapse" href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#register" aria-expanded="false">Are You Returning Customer? <span> Click Here to Login</span> </a></h5>
+                                </div>
+                                <div class="checkout-register-input input-btn-style collapse show" id="register">
+                                    <input type="email" class="theme-input-style" placeholder="Enter Your Email" required="">
+                                    <input type="password" class="theme-input-style" placeholder="Enter Your Password" required="">
+                                    <div class="form-btn-field">
+                                        <button type="submit" class="btn">Log in</button>
+                                        <label class="m-0"><input type="checkbox">Remember Me?</label>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Forgot Your Password?</a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <!--End of checkout register wrap -->
+                </div>
+
+                <div class="col-md-6">
+                    <!-- coupon register wrap -->
+                    <div class="coupon-register-wrap">
+                        <div class="coupon-register">
+                            <form action="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" method="POST">
+                                <div class="coupon-register-title">
+                                    <h5> <a data-toggle="collapse" href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#coupon" aria-expanded="false">Have A Coupon? <span>Click here to enter your code</span></a></h5>
+                                </div>
+                                <div class="checkout-register-input input-btn-style collapse show" id="coupon">
+                                    <input type="number" class="theme-input-style" placeholder="Coupon Code" name="coupon" required="">
+                                    <button type="submit" class="btn">Apply Coupon</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <!--End of coupon register wrap -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <!-- billing details wrap -->
+                    <div class="billing-details-wrap">
+                        <form action="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" method="POST">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-6">
+                                    <!-- billing details form-->
+                                    <div class="billing-details">
+                                        <div class="billing-heading">
+                                            <h3>Billing Details</h3>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <!-- first name -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="text" class="theme-input-style" placeholder="First Name" required="">
+                                                </span>
+                                                <!--End of first name -->
+                                            </div>
+                                            <div class="col-md-6">
+                                                <!-- last name -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="text" class="theme-input-style" placeholder="Last Name" required="">
+                                                </span>
+                                                <!--End of last name -->
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <!-- company name -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="text" class="theme-input-style" placeholder="Company name" required="">
+                                                </span>
+                                                <!-- End of company name -->
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <!-- Phone No -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="number" class="theme-input-style" placeholder="Phone No" required="">
+                                                </span>
+                                                <!-- End of Phone No -->
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <!-- Email Address -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="email" class="theme-input-style" placeholder="Email Address" required="">
+                                                </span>
+                                                <!-- End of Email Address -->
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <!-- Country -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="text" class="theme-input-style" placeholder="Country" required="">
+                                                </span>
+                                                <!-- End of Country -->
+                                            </div>
+                                            <div class="col-md-6">
+                                                <!-- Town / City -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="text" class="theme-input-style" placeholder="Town / City">
+                                                </span>
+                                                <!-- End of Town / City -->
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <!-- Street Address -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="text" class="theme-input-style" placeholder="Street Address">
+                                                    <input type="text" class="theme-input-style" placeholder="Street Address(optional)">
+                                                </span>
+                                                <!-- End of Street Address -->
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <!-- District -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="text" class="theme-input-style" placeholder="District">
+                                                </span>
+                                                <!-- End of District -->
+                                            </div>
+                                            <div class="col-md-6">
+                                                <!-- Postcode / ZIP -->
+                                                <span class="woocommerce-input-wrapper">
+                                                    <input type="text" class="theme-input-style" placeholder="Postcode / ZIP">
+                                                </span>
+                                                <!-- End of Postcode / ZIP -->
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <!-- Creat an Account -->
+                                                <div class="shop--create-account">
+                                                    <label data-toggle="collapse" data-target="#collapse-3" class="collapsed">
+                                                        <input type="checkbox">
+                                                         Creat an Account?
+                                                    </label>
+                                                </div>
+                                                <div class="shop--create-singin collapse" id="collapse-3">
+                                                    <label>Create a Password <span>*</span></label>
+                                                    <input type="password" class="theme-input-style" placeholder="Password" required="">
+                                                </div>
+                                                <!--End of Creat an Account -->
+                                            </div>
+
+                                            <div class="col-md-12">
+                                                <!-- Ship To A Different Address -->
+                                                <div class="shop--create-account">
+                                                    <label data-toggle="collapse" data-target="#collapse-4">
+                                                   <input type="checkbox">
+                                                       Ship To A Different Address?
+                                                    </label>
+                                                    <div class="shop--create-singin collapse" id="collapse-4">
+                                                        <input type="text" class="theme-input-style mb-30" placeholder="stree Address">
+                                                        <input type="text" class="theme-input-style" placeholder="appertment,suit,flate,(Optional)">
+                                                    </div>
+                                                </div>
+                                                <!--End of Ship To A Different Address -->
+                                            </div>
+
+                                            <div class="col-md-12">
+                                                <!-- order note -->
+                                                <label class="billing-textarea">
+                                                    Order Note
+                                                </label>
+                                                <textarea name="textara" id="taxtarea" placeholder="Notes about your order. e.g. special notes for delivery."></textarea>
+                                                <!--End of order note -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End of billing details form-->
+                                </div>
+                                <div class="col-lg-6">
+                                    <!-- your order -->
+                                    <div class="checkout-review-order-wrap">
+                                        <!-- checkout-review-order -->
+                                        <div class="woocommerce-checkout-review-order">
+                                            <div class="review-order-header">
+                                                <h3>Your order</h3>
+                                            </div>
+                                            <table class="review-order-table">
+                                                <tbody>
+                                                    <tr>
+                                                        <th>Product name</th>
+                                                        <th>Total</th>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Textured Printed Dress <span>75 X 3</span></td>
+                                                        <td>$25</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Neutral Silk Blouse <span>75 X 3</span></td>
+                                                        <td>$25</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Sub Total</td>
+                                                        <td>$325</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <!-- checkout-review-order -->
+
+                                        <!-- check Shipping warp -->
+                                        <div class="check-shipping-wrap">
+                                            <div class="check-shipping-heading">
+                                                <h5>Shipping</h5>
+                                            </div>
+                                            <table class="check-shipping-table">
+                                                <tbody>
+                                                    <tr>
+                                                        <td><label><input class="" type="radio" name="shipping-type">
+                                                        Free shipping</label></td>
+                                                        <td>&nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                       <td><label><input class="" type="radio" checked="" name="shipping-type">
+                                                        Flat rate: $10.00</label></td>
+                                                        <td>$10</td> 
+                                                    </tr>
+                                                    <tr>
+                                                       <td><label><input class="" type="radio" name="shipping-type">
+                                                        Local pickup: $5.00</label></td>
+                                                        <td>&nbsp;</td> 
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Total</td>
+                                                        <td>$325</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <!-- End of check Shipping warp -->
+
+                                        <!-- payment system -->
+                                        <div class="payment-system-wrap">
+                                            <div class="payment-system-heading">
+                                                <h5>Payment System</h5>
+                                            </div>
+                                            <table class="payment-system-table">
+                                                <tbody>
+                                                    <tr>
+                                                        <td><label><input type="radio" name="payment-type" data-parsley-multiple="payment-type">Direct Bank Transfer</label></td>
+                                                        <td><label><input class="" type="radio" name="payment-type" data-parsley-multiple="payment-type">Check payments</label></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><label><input class="" type="radio" name="payment-type" data-parsley-multiple="payment-type" checked="">Cash on delivery</label></td>
+                                                        <td><label><input type="radio" name="payment-type" data-parsley-multiple="payment-type">PayPal</label></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><label><input class="" type="radio" name="payment-type" data-parsley-multiple="payment-type">Credit Card (Stripe)</label></td>
+                                                        <td><label><input type="radio" name="payment-type" data-parsley-multiple="payment-type">Alipay</label></td>
+                                                    </tr>
+
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <!--End of payment system -->
+                                    </div>
+                                    <!--End of your order -->
+                                </div>
+                                <div class="col-md-7">
+                                    <!-- woocommerce-terms-and-conditions-wrapper -->
+                                    <div class="terms-and-conditions-wrapper text-center">
+                                        <p>Your personal data will be used to process your order,  support your<br> experience throughout this website, and for other purposes described in our <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">privacy policy</a>.</p>
+                                        <label class="woocommerce-form__label woocommerce-form__label-for-checkbox checkbox">
+                                            <input type="checkbox" class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox">
+                                            <span>I agree to the <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">terms and conditions</a></span>
+                                        </label>
+                                        <button type="submit" class="billing-submit-button btn btn-fill-type">Place Order</button>
+                                    </div>
+                                    <!-- End of woocommerce-terms-and-conditions-wrapper -->
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- End of billing details wrap -->
+                </div>
+            </div>
+        </div>        
+    </section>
+    <!--End of check out wrap -->
+    
+   <!-- footer area -->
+   <footer class="pattern footer-type1 pt-30">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <!-- footer widget -->
+                    <div class="col-md-6 col-lg-4 col-sm-6">
+                        <div class="footer-widget">
+                            <div class="footer-logo">
+                                <a href="http://www.themelooks.net/demo/kinen/html/preview/index.html"><img src="./css_files/ftr-logo.png" alt=""></a>
+                            </div>
+                            <div class="footer-about-text">
+                                <p>These cases are perfectly simple and easy to distin guish. In a free hour, when our power of choice is untram melled and when nothing prevents our being able to be circumstances and owing claim.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End of footer widget -->
+    
+                    <!-- footer widget -->
+                    <div class="col-md-6 col-lg-2 col-sm-6">
+                        <div class="footer-widget">
+                            <!-- footer Widget heading -->
+                            <div class="footer-header">
+                                <h5>About kinen</h5>
+                            </div>
+                            <!--End of footer Widget heading -->
+                            <div class="footer-links">
+                                <ul class="links-list list-unstyled mb-0">
+                                    <li>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">About Our Company</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">License</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Policy Privacy</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Terms of use</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End of footer widget -->
+    
+                    <!-- footer widget -->
+                    <div class="col-md-6 col-lg-2 col-sm-6">
+                        <div class="footer-widget">
+                            <!-- footer Widget heading -->
+                            <div class="footer-header">
+                                <h5>Useful Links</h5>
+                            </div>
+                            <!--End of footer Widget heading -->
+                            <div class="footer-links">
+                                <ul class="links-list list-unstyled mb-0">
+                                    <li>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Top Sellers</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Featured Items</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Discount Shop</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">New Arrivals</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End of footer widget -->
+    
+                    <!-- footer widget -->
+                    <div class="col-md-6 col-lg-4 col-sm-6">
+                        <div class="footer-widget">
+                            <!-- footer Widget heading -->
+                            <div class="footer-header">
+                                <h5>Useful Links</h5>
+                            </div>
+                            <!--End of footer Widget heading -->
+                            <div class="footer-contact-wrap">
+                                <ul class="footer-contact-list list-unstyled mb-0">
+                                    <li>
+                                        <span><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                                        1622 Colins Street West, Strawberry (Le), ITALY
+                                    </li>
+                                    <li>
+                                        <span><i class="fa fa-envelope" aria-hidden="true"></i></span>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/info@emailname.com">Email: info@emailname.com</a>
+                                    </li>
+                                    <li>
+                                        <span><i class="fa fa-phone" aria-hidden="true"></i></span>
+                                        <a href="http://www.themelooks.net/demo/kinen/html/preview/+006543219874">Phone: +00 654 321 9874</a>
+                                    </li>
+                                    <li>
+                                        <span><i class="fa fa-clock-o" aria-hidden="true"></i></span>
+                                        Monday - Saturday:9:00 - 18:00 pm
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End of footer widget -->
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="footer-bottom-wrap">
+                            <!-- copyright text -->
+                            <div class="copyright-text">
+                                <p>© 2018 <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">ThemeLooks</a> All rights reserved</p>
+                            </div>
+                            <!-- End of copyright text -->
+    
+                            <!-- tarms and condition -->
+                            <div class="trams-conditaion">
+                                <ul class="list-unstyled mb-0">
+                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">License</a></li>
+                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Policy Privacy</a></li>
+                                    <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">Terms of use</a></li>
+                                </ul>
+                            </div>
+                            <!-- End of tarms and condition -->
+                        </div>
+    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End of footer area -->
+    
+    <!-- back to top -->
+    <div class="back-to-top show">
+            <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">
+                <div class="back-toop-tooltip"><span>Back To Top</span></div>
+                <div class="top-array"></div>
+                <div class="top-line"></div>
+            </a>
+        </div>
+        <!-- back to top -->
+    
+        <!-- Modal quick view-->
+        <div class="modal-quickview-container">
+            <div class="quick-view-content-wrap">
+                <div class="modal-window-overlay"></div>
+                <div class="quick-view-content">
+                    <div class="modal-window-close">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14.03" height="14" viewBox="0 0 14.03 14" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                      
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon" class="cls-1" d="M1866.23,55l5.51-5.509a0.876,0.876,0,0,0-1.24-1.239l-5.5,5.509-5.51-5.509a0.876,0.876,0,1,0-1.24,1.239L1863.76,55l-5.51,5.509a0.88,0.88,0,0,0,0,1.239,0.9,0.9,0,0,0,.62.257,0.863,0.863,0,0,0,.62-0.257l5.51-5.509,5.5,5.509a0.863,0.863,0,0,0,.62.257,0.876,0.876,0,0,0,.62-1.5Z" transform="translate(-1858 -48)"></path>
+</svg>
+                    </div> 
+                    <div class="quick-view-content-inner">
+                        <div class="row align-items-center">
+                            <div class="col-lg-7">
+                                <!-- Start shop product slider -->
+                                <div class="shop-product-slider-wrap">
+                                    <!-- Start shop slider top side -->
+                                     <div class="swiper-container quick-product-gallery swiper-container-fade swiper-container-horizontal">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide swiper-slide-active" style="width: 524px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+                                                <img class="" src="./css_files/quick-view1.png" alt="" data-rjs="2">
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-next" style="width: 524px; opacity: 0; transform: translate3d(-524px, 0px, 0px);">
+                                                <img class="" src="./css_files/quick-view2.png" alt="" data-rjs="2">
+                                            </div>
+                                            <div class="swiper-slide" style="width: 524px; opacity: 0; transform: translate3d(-1048px, 0px, 0px);">
+                                                <img class="" src="./css_files/quick-view3.png" alt="" data-rjs="2">
+                                            </div>
+                                            <div class="swiper-slide" style="width: 524px; opacity: 0; transform: translate3d(-1572px, 0px, 0px);">
+                                                <img class="" src="./css_files/quick-view4.png" alt="" data-rjs="2">
+                                            </div>
+                                        </div>
+                                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                     <!-- End of shop slider top side -->
+                                    
+                                    <!-- Start shop slider bottom side -->
+                                    <div class="swiper-container quick-product-thumbs swiper-container-horizontal">
+                                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+                                            <div class="swiper-slide swiper-slide-active" style="width: 50px; margin-right: 10px;">
+                                                <img src="./css_files/details-nav1.png" data-rjs="2" alt="">
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-next" style="width: 50px; margin-right: 10px;">
+                                                <img src="./css_files/details-nav3.png" data-rjs="2" alt="">
+                                            </div>
+                                            <div class="swiper-slide" style="width: 50px; margin-right: 10px;">
+                                                <img src="./css_files/details-nav4.png" data-rjs="2" alt="">
+                                            </div>
+                                            <div class="swiper-slide" style="width: 50px; margin-right: 10px;">
+                                                <img src="./css_files/details-nav5.png" data-rjs="2" alt="">
+                                            </div>
+                                        </div>
+                                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                    <!-- End of shop slider bottom side -->
+                                </div>
+                                <!-- End of shop product slider -->
+                            </div>
+    
+                            <div class="col-lg-5">
+                                <!-- product details inner -->
+                                <div class="product-details-inner">
+                                    <!-- product info -->
+                                    <div class="product-info">
+                                        <div class="product-rating">
+                                            <div class="star-rating">
+                                                <span></span>
+                                            </div>
+                                        </div>
+    
+                                        <!-- product title -->
+                                        <div class="product-title">
+                                            <h2><a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details.html">Woven Throw Pillow</a></h2>
+                                        </div>
+                                        <!-- end of product title -->
+    
+                                         <div class="product-price"><h3 class="new-price">$25</h3><h5 class="old-price">$30.1</h5></div>
+    
+                                         <div class="product-description">
+                                             <p>Ladyship it daughter securing procured or am moreover mr Put sir she exercise vicinity cheerful wondered.</p>
+                                         </div>
+    
+                                        <!-- list product group -->
+                                        <div class="list-product-group">
+                                            <ul class="mb-0 list-unstyled">
+                                                <li class="size-group group">
+                                                    <span class="list-heading">size:</span>
+                                                    <ul class="size-list mb-0 list-unstyled">
+                                                        <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="product-size"><span>L</span></a></li>
+                                                        <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="active product-size"><span>M</span></a></li>
+                                                        <li><a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="product-size"><span>S</span></a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="quantity-group group">
+                                                    <span class="list-heading">quantity:</span>
+                                                    <div class="product-quantity">
+                                                        <span class="minus"><svg xmlns="http://www.w3.org/2000/svg" width="6" height="2" viewBox="0 0 6 2" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <rect id="Minus" class="cls-1" width="6" height="2"></rect>
+</svg></span>
+                                                        <input type="text" value="0" class="product-quantity-list product-size">
+                                                        <span class="plus"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Plus" class="cls-1" d="M1137,756h3v2h-3v-2Zm3-3h2v8h-2v-8Zm2,3h3v2h-3v-2Z" transform="translate(-1137 -753)"></path>
+</svg></span>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <!-- End of list product group -->
+    
+                                        <!-- product details btns -->
+                                        <div class="product-details-btns">
+                                            <div class="addto-bag-btn">
+                                                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn btn-fill-type">
+                                                    <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Add_to_bag_" data-name="Add to bag " class="cls-1" d="M19.065,7.442H16.03L11.391,0.775A1.761,1.761,0,0,0,9.934,0h0A1.759,1.759,0,0,0,8.477.774L3.83,7.442H0.935a0.918,0.918,0,0,0-.935.9V8.669a12.062,12.062,0,0,0,2.914,8A9.385,9.385,0,0,0,10,20a9.386,9.386,0,0,0,7.086-3.334,12.063,12.063,0,0,0,2.915-8V8.342A0.918,0.918,0,0,0,19.065,7.442ZM9.887,1.686a0.169,0.169,0,0,1,.046-0.048,0.172,0.172,0,0,1,.046.049l4.005,5.756H5.876ZM10,17.969c-4.318,0-7.86-3.865-8.12-8.726H18.12C17.86,14.1,14.317,17.969,10,17.969Z"></path>
+</svg></span><span class="d-none d-lg-block mr-0">Add To Cart</span>
+                                                </a>
+                                            </div>
+                                             <div class="wish-btn">
+                                                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn btn-fill-type">
+                                                    <span class=""><svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="wishlist" class="cls-1" d="M9.993,20a0.809,0.809,0,0,1-.588-0.265L1.658,11.382A6.288,6.288,0,0,1,0,7.085a6.268,6.268,0,0,1,1.651-4.3,5.378,5.378,0,0,1,8.012.009l0.344,0.371L10.342,2.8a5.382,5.382,0,0,1,8.012,0A6.264,6.264,0,0,1,20,7.1a6.291,6.291,0,0,1-1.655,4.3l-7.764,8.34A0.807,0.807,0,0,1,9.993,20ZM5.649,2.76A3.824,3.824,0,0,0,2.83,4.021,4.464,4.464,0,0,0,1.654,7.085a4.487,4.487,0,0,0,1.179,3.068l7.16,7.719,7.176-7.706A4.465,4.465,0,0,0,18.345,7.1,4.489,4.489,0,0,0,17.17,4.03a3.792,3.792,0,0,0-5.652,0l-0.924,1a0.793,0.793,0,0,1-1.18,0l-0.932-1A3.838,3.838,0,0,0,5.649,2.76Z" transform="translate(0 -1)"></path>
+</svg></span><span class="d-none d-lg-block mr-0"></span>
+                                                </a>
+                                            </div>
+                                            <div class="compare-btn">
+                                                <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#" class="btn btn-fill-type">
+                                                    <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 15 15" class="svg replaced-svg">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:description rdf:about=""></rdf:description>
+   </rdf:rdf>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="compare" class="cls-1" d="M710.108,1891.5H702.8a0.8,0.8,0,0,1-.795-0.8h0a0.79,0.79,0,0,1,.795-0.79h7.313v-2.5l3.743,3.29-3.743,3.3v-2.5Zm-7.959-9.21,3.743-3.29v2.5h7.313a0.8,0.8,0,0,1,.795.79h0a0.8,0.8,0,0,1-.795.8h-7.313v2.5Z" transform="translate(-700.5 -1879)"></path>
+</svg></span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <!-- product details btns -->
+    
+                                        <!-- more detailes -->
+                                        <div class="more-details-button">
+                                            <a href="http://www.themelooks.net/demo/kinen/html/preview/shop-details.html" class="btn btn-line roboto">More Details</a>
+                                        </div>
+                                        <!-- End of more detailes -->
+    
+                                        <!-- product mata -->
+                                        <div class="product_meta item-product-meta-info">
+                                            <span class="sku_wrapper">
+                                                <label>
+                                                    SKU:
+                                                    <span>N/A</span>
+                                                </label>
+                                            </span>
+                                            <span class="posted_in">
+                                                <span class="meta-item-list">
+                                                    <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">accessories</a>,
+                                                    <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">fashion</a>,
+                                                    <a href="http://www.themelooks.net/demo/kinen/html/preview/checkout.html#">summer</a>
+                                                </span>
+                                            </span>
+                                        </div>
+                                        <!-- End of product mata -->
+                                    </div>
+                                     <!-- End of product info -->
+                                </div>
+                                <!-- End of product details inner -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+        <!--End of Modal quick view-->
+    
+        <!-- add add to cart notifacition -->
+        <div class="modal-add-notifacition">
+            <div class="add-notifacition-inner media align-items-center">
+                <div class="add-noti-image">
+                    <img src="./css_files/add-note.jpg" alt="">
+                </div>
+                <div class="add-noti-text media-body">
+                    <span>Cat Eye Reading Glasses</span>
+                    <p>Added To Your Cart Successfully!</p>
+                </div>
+            </div>
+        </div>
+        <!-- add add to cart notifacition -->
+    
+        <!-- add add to cart notifacition -->
+        <div class="modal-wish-notifacition">
+            <div class="wish-notifacition-inner media align-items-center">
+                <div class="wish-noti-image">
+                    <img src="./css_files/add-note.jpg" alt="">
+                </div>
+                <div class="wish-noti-text media-body">
+                    <span>Cat Eye Reading Glasses</span>
+                    <p>Added To Your Wish Successfully!</p>
+                </div>
+            </div>
+        </div>
+        <!-- add add to cart notifacition -->
+    
+        <!-- JS Files -->
+       <!-- ==== JQuery 3.3.1 js file==== -->
+       <script src="./css_files/jquery-3.3.1.min.js.download"></script>
+    
+       <!-- ==== Bootstrap js file==== -->
+       <script src="./css_files/bootstrap.bundle.min.js.download"></script>
+    
+       <!-- ==== JQuery Waypoint js file==== -->
+       <script src="./css_files/jquery.waypoints.min.js.download"></script>
+    
+       <!-- ==== Parsley js file==== -->
+       <script src="./css_files/parsley.min.js.download"></script>
+    
+       <!-- ==== Ratina js file==== -->
+       <script src="./css_files/retina.min.js.download"></script>
+    
+       <!--===parallax js file===-->
+       <script src="./css_files/parallax.js.download"></script>
+    
+       <!--=== hori parallax js file===-->
+       <script src="./css_files/parallaxh.min.js.download"></script>
+    
+       <!-- ==== Owl Carousel js file==== -->
+       <script src="./css_files/owl.carousel.min.js.download"></script>
+    
+       <!-- ====Magnific-Popup js file==== -->
+       <script src="./css_files/jquery.magnific-popup.min.js.download"></script>
+    
+       <!-- ====Counter js file=== -->
+       <script src="./css_files/jquery.counterup.min.js.download"></script>
+    
+       <!-- ====packery==== -->
+       <script src="./css_files/packery.pkgd.min.js.download"></script>
+    
+       <!-- ====swiper==== -->
+       <script src="./css_files/swiper.min.js.download"></script>
+    
+       <!-- ====Count down js==== -->
+       <script src="./css_files/jquery.countdown.min.js.download"></script>
+    
+       <!-- ====zoom js==== -->
+       <script src="./css_files/jquery.elevateZoom-3.0.8.min.js.download"></script>
+    
+        <!-- ====tweenMax==== -->
+       <script src="./css_files/TweenMax.min.js.download"></script>
+    
+       <!-- ====text animation==== -->
+        <script src="./css_files/anime.min.js.download"></script>
+
+        <!-- ====google map api key====-->
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB2D8wrWMY3XZnuHO6C31uq90JiuaFzGws"></script>
+    
+       <!-- ==== Script js file==== -->
+       <script src="./css_files/scripts.js.download"></script>
+    
+       <!-- ==== Custom js file==== -->
+       <script src="./css_files/custom.js.download"></script>
+    
+    
+    </body></html>
